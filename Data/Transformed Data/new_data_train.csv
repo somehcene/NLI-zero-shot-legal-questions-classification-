@@ -1,0 +1,1157 @@
+,premisse,hypothèse,label
+0,Je suis marié(e). Nous sommes mariés. Dois-je reconnaître mon enfant ?,la question concerne la catégorie Famille,0
+1,Je mets un kot en location (bail de droit commun). Pour quels logements le permis de location est-il nécessaire en Wallonie ?,la question concerne la catégorie Logement,0
+2,Quand faire l'état des lieux à Bruxelles ?,la question concerne la catégorie Logement,0
+3,Je suis parent. Dois-je encore payer une contribution alimentaire si je n'ai plus de contact avec mes enfants ?,la question concerne la catégorie Famille,0
+4,Quel bail est considéré comme un bail 9 ans à Bruxelles ?,la question concerne la catégorie Logement,0
+5,"Je viens d’obtenir un logement social, comment puis-je rompre mon bail en cours en Wallonie ?",la question concerne la catégorie Logement,0
+6,Comment introduire un recours contre la décision d’un organisme de sécurité sociale à Bruxelles ?,la question concerne la catégorie Logement,0
+7,J'ai signé une déclaration de cohabitation légale. Dois-je payer les dettes de mon cohabitant légal ?,la question concerne la catégorie Famille,0
+8,J'ai divorcé pour cause de désunion irrémédiable. Puis-je modifier le montant de la pension alimentaire ?,la question concerne la catégorie Famille,0
+9,Le propriétaire peut-il mettre fin au bail non officiel de colocation avant l’échéance à Bruxelles ?,la question concerne la catégorie Logement,0
+10,Je suis marié(e). Dois-je rester fidèle à mon époux(se) ?,la question concerne la catégorie Famille,0
+11,Les parents ne sont pas mariés ensemble. La mère de l'enfant est mariée à quelqu'un d'autre que le père. Peut-on me réclamer une aide financière pour l'enfant si je suis son père biologique mais pas légal ?,la question concerne la catégorie Famille,0
+12,Je suis marié(e). Mon conjoint peut-il m'obliger à travailler pour faire face aux dépenses du ménage ?,la question concerne la catégorie Famille,0
+13,L'expulsion est-elle interrompue si je suis en RCD (réglement collectif de dettes) à Bruxelles ?,la question concerne la catégorie Logement,0
+14,Je me sépare. Comment se déroule la procédure de mesures urgentes et provisoires entre cohabitants légaux ?,la question concerne la catégorie Famille,0
+15,Les père et mère de l'enfant résident ensemble. Que faire si l'autre parent a pris une décision avec laquelle je ne suis pas d'accord concernant notre enfant mineur ?,la question concerne la catégorie Famille,0
+16,A quelles conditions puis-je être mis sous administration de biens et/ou de la personne ?,la question concerne la catégorie Famille,0
+17,Quelles démarches effectuer après l'accouchement pour être considérée comme la maman de l'enfant ?,la question concerne la catégorie Famille,0
+18,"Si mon bail étudiant n'est pas enregistré, puis-je y mettre fin sans préavis, ni indemnité à Bruxelles ?",la question concerne la catégorie Logement,0
+19,Peut-on réclamer un loyer à un colocataire qui est parti à Bruxelles ?,la question concerne la catégorie Logement,0
+20,Quelles sont les réparations à charge du propriétaire à Bruxelles ?,la question concerne la catégorie Logement,0
+21,Que faire si mes enfants m'empèchent de voir mes petits-enfants ?,la question concerne la catégorie Famille,0
+22,Comment se déroule une expulsion en Wallonie ?,la question concerne la catégorie Logement,0
+23,"Si mon bail n'est pas enregistré, puis-je y mettre fin sans préavis, ni indemnité à Bruxelles ?",la question concerne la catégorie Logement,0
+24,Comment désigner une personne de confiance ?,la question concerne la catégorie Famille,0
+25,Mon propriétaire peut-il m'expulser si je suis en retard de paiement en Wallonie ?,la question concerne la catégorie Logement,0
+26,"Nous ne sommes pas mariés, quel nom portera mon enfant si le père ne le reconnaît pas ?",la question concerne la catégorie Famille,0
+27,L'expulsion est-elle interrompue si je suis en RCD (réglement collectif de dettes) en Wallonie ?,la question concerne la catégorie Logement,0
+28,Je me sépare. Puis-je demander au tribunal de la famille la garde des enfants avant que le divorce soit prononcé ?,la question concerne la catégorie Famille,0
+29,Dois-je être personnellement présent(e) aux audiences devant le tribunal de la famille si j’ai lancé la procédure ?,la question concerne la catégorie Famille,0
+30,Mon propriétaire peut-il me réclamer des arriérés d'indexation de loyer en Wallonie ?,la question concerne la catégorie Logement,0
+31,Je suis parent. Mon ex ne paie pas la contribution alimentaire. Puis-je refuser qu'il continue à voir les enfants ?,la question concerne la catégorie Famille,0
+32,Quelle est la valeur des accords obtenus en médiation familiale ?,la question concerne la catégorie Famille,0
+33,Je suis parent. Qu'est-ce que le SECAL ?,la question concerne la catégorie Famille,0
+34,Je suis parent. Dois-je encore payer la contribution alimentaire si mon fils de 23 ans est toujours en première ?,la question concerne la catégorie Famille,0
+35,Le propriétaire peut-il augmenter le loyer de mon bail étudiant à Bruxelles ?,la question concerne la catégorie Logement,0
+36,Je me marie. Puis-je me marier avec une personne de même sexe ?,la question concerne la catégorie Famille,0
+37,Que faire si le propriétaire abuse du droit de visite en Wallonie ?,la question concerne la catégorie Logement,0
+38,Mon propriétaire peut-il augmenter le loyer en cours de bail à Bruxelles ?,la question concerne la catégorie Logement,0
+39,Dois-je partir avant la mise en oeuvre de l'expulsion à Bruxelles ?,la question concerne la catégorie Logement,0
+40,Je m'assure que le propriétaire a obtenu un permis de location (Région wallonne). Pour quels logements le permis de location est-il nécessaire en Wallonie ?,la question concerne la catégorie Logement,0
+41,"Nous sommes mariés, quel nom portera notre enfant ?",la question concerne la catégorie Famille,0
+42,Mon propriétaire peut-il mettre d'initiative mes meubles à la rue à Bruxelles ?,la question concerne la catégorie Logement,0
+43,Précompte immobilier : dois-je le payer à Bruxelles ?,la question concerne la catégorie Logement,0
+44,Peut-on m'imposer une mesure d'administration de biens et/ou de la personne ?,la question concerne la catégorie Famille,0
+45,Je souhaite divorcer pour cause de désunion irrémédiable. Puis-je fixer une limite dans le temps pour la pension alimentaire ?,la question concerne la catégorie Famille,0
+46,Comment modifier la mesure d'administration de biens et/ou de la personne ?,la question concerne la catégorie Famille,0
+47,Je loue un garage. Quelles règles s'appliquent à mon bail à Bruxelles ?,la question concerne la catégorie Logement,0
+48,Les père et mère de l'enfant résident séparément. Que faire si l'autre parent a pris une décision avec laquelle je ne suis pas d'accord concernant notre enfant ?,la question concerne la catégorie Famille,0
+49,J'ai signé une déclaration de cohabitation légale. Puis-je louer ou vendre notre maison sans l’accord de mon cohabitant légal ?,la question concerne la catégorie Famille,0
+50,Je suis parent. Comment réclamer les frais extraordinaires à mon ex ?,la question concerne la catégorie Famille,0
+51,Dois-je partir avant la mise en oeuvre de l'expulsion en Wallonie ?,la question concerne la catégorie Logement,0
+52,"Mon bail est un bail étudiant et de résidence principale, puis-je choisir quelles règles appliquer à Bruxelles ?",la question concerne la catégorie Logement,0
+53,Une personne âgée qui n’a plus toute sa tête peut-elle faire l’objet d’une mise en observation ?,la question concerne la catégorie Famille,0
+54,Je me sépare. Puis-je réclamer une pension alimentaire avant divorce ?,la question concerne la catégorie Famille,0
+55,J'ai signé une déclaration de cohabitation légale. Les biens que je possédais avant notre cohabitation légale sont-ils communs ?,la question concerne la catégorie Famille,0
+56,Dois-je prendre un avocat pour contester la décision d’un organisme de sécurité sociale en Wallonie ?,la question concerne la catégorie Logement,0
+57,Dois-je payer les frais de justice si je conteste une décision d’un organisme de sécurité sociale en Wallonie ?,la question concerne la catégorie Logement,0
+58,A quoi sert l’état des lieux à Bruxelles ?,la question concerne la catégorie Logement,0
+59,Comment récupérer la garantie locative à Bruxelles ?,la question concerne la catégorie Logement,0
+60,"Quand dois-je reprendre le travail après le congé de maternité, et quelles démarches dois-je faire ?",la question concerne la catégorie Famille,0
+61,Je me sépare. Le juge de la famille peut-il imposer à l'un de nous de quitter le logement familial ?,la question concerne la catégorie Famille,0
+62,Le bail non officiel de colocation prend-il automatiquement fin à l'échéance à Bruxelles ?,la question concerne la catégorie Logement,0
+63,Frais de gestion de l'agence immobilière : dois-je les payer à Bruxelles ?,la question concerne la catégorie Logement,0
+64,Nous ne sommes pas mariés. Puis-je reconnaître mon enfant avant sa naissance et comment faire ?,la question concerne la catégorie Famille,0
+65,Je me sépare. Le juge de la famille peut-il imposer à l'un de nous de quitter le logement familial ?,la question concerne la catégorie Famille,0
+66,Je divorce. Je divorce pour cause de désunion irrémédiable. Que se passe-t-il si mon conjoint est maintenant d’accord de divorcer ?,la question concerne la catégorie Famille,0
+67,Je me marie. Puis-je contester le refus de mon mariage ?,la question concerne la catégorie Famille,0
+68,Qui contrôle le fonctionnement de la tutelle ?,la question concerne la catégorie Famille,0
+69,Les parents ne sont pas mariés ensemble. Quelles démarches effectuer pour être reconnu comme le père de mon enfant si ni moi ni la mère ne sommes mariés ?,la question concerne la catégorie Famille,0
+70,Je suis marié(e). Puis-je vendre les meubles de la maison sans l’accord de mon conjoint ?,la question concerne la catégorie Famille,0
+71,Je suis parent. L'hébergement alterné empêche-t-il le paiement d'une contribution alimentaire ?,la question concerne la catégorie Famille,0
+72,"J'étais sous administration provisoire de biens, que s'est-il passé au 1er septembre 2019 ?",la question concerne la catégorie Famille,0
+73,Je divorce. Je divorce pour cause de désunion irrémédiable. Nous sommes d’accord de divorcer. Quand serons-nous officiellement divorcés (divorce pour cause de désunion irrémédiable) ?,la question concerne la catégorie Famille,0
+74,Que faire si l'autre parent a pris une décision avec laquelle je ne suis pas d'accord concernant notre enfant ?,la question concerne la catégorie Famille,0
+75,"Je me sépare. En tant que cohabitants légaux, à quelles conditions peut-on demander des mesures urgentes et provisoires au juge de la famille ?",la question concerne la catégorie Famille,0
+76,Dois-je partir avant la mise en oeuvre de l'expulsion ?,la question concerne la catégorie Logement,0
+77,"Mon propriétaire ne fait pas les réparations nécessaires, puis-je rompre le bail à Bruxelles ?",la question concerne la catégorie Logement,0
+78,Peut-on m'expulser si je ne respecte pas le règlement d'ordre intérieur de mon logement social en Wallonie ?,la question concerne la catégorie Logement,0
+79,Je suis parent. Puis-je faire appel au SECAL ?,la question concerne la catégorie Famille,0
+80,Quels sont les différentes possibilités d'hébergement des enfants ?,la question concerne la catégorie Famille,0
+81,Puis-je mettre fin au bail de 9 ans avant son échéance à Bruxelles ?,la question concerne la catégorie Logement,0
+82,"Je suis victime de violences conjugales. Victime de violences conjugales, à qui m'adresser si je veux être aidée ?",la question concerne la catégorie Famille,0
+83,Les père et mère de l'enfant résident séparément. Les tiers doivent-ils toujours demander l'accord des 2 parents ?,la question concerne la catégorie Famille,0
+84,Une expulsion est-elle rapide en Wallonie ?,la question concerne la catégorie Logement,0
+85,Les colocataires tous ensemble peuvent-ils mettre fin au bail non officiel de colocation avant l'échéance à Bruxelles ?,la question concerne la catégorie Logement,0
+86,Comment répartir les charges entre les différents locataires d'une copropriété en Wallonie ?,la question concerne la catégorie Logement,0
+87,Qui peut être désigné comme tuteur ?,la question concerne la catégorie Famille,0
+88,Je deviens cohabitant légal. A qui appartiennent les biens achetés pendant la cohabitation légale ?,la question concerne la catégorie Famille,0
+89,Que devient le bail en cas de décès du propriétaire à Bruxelles ?,la question concerne la catégorie Logement,0
+90,"Nous ne sommes pas mariés, quel nom portera notre enfant si son père le reconnaît après qu'il ait été déclaré à la commune ?",la question concerne la catégorie Famille,0
+91,Comment et à quelle fréquence s'organisent les visites de domicile à Bruxelles ?,la question concerne la catégorie Logement,0
+92,L'administrateur de biens peut-il accepter le plan amiable proposé par le médiateur de dettes ?,la question concerne la catégorie Famille,0
+93,Un colocataire seul peut-il mettre fin au bail non officiel de colocation avant l'échéance en Wallonie ?,la question concerne la catégorie Logement,0
+94,Les père et mère de l'enfant résident ensemble. Que faire si je ne peux pas me mettre d'accord avec l'autre parent pour une décision concernant notre enfant mineur ?,la question concerne la catégorie Famille,0
+95,Qu'est-ce qu'une déclaration de préférence ?,la question concerne la catégorie Famille,0
+96,Que devient le bail en cas de décès du locataire en Wallonie ?,la question concerne la catégorie Logement,0
+97,"Mon propriétaire ne fait pas les réparations nécessaires, puis-je rompre le bail à Bruxelles ?",la question concerne la catégorie Logement,0
+98,"Si on m'expulse, que fait-on de mes meubles à Bruxelles ?",la question concerne la catégorie Logement,0
+99,"Je me sépare. On se sépare, quel est le sort de la maison achetée ensemble ?",la question concerne la catégorie Famille,0
+100,Quand le juge de paix peut-il mettre fin au bail à Bruxelles ?,la question concerne la catégorie Logement,0
+101,Comment faire un état des lieux à Bruxelles ?,la question concerne la catégorie Logement,0
+102,Que se passe-t-il si je reste dans le logement après l’échéance du bail de courte durée à Bruxelles ?,la question concerne la catégorie Logement,0
+103,Que devient le bail en cas de décès du locataire à Bruxelles ?,la question concerne la catégorie Logement,0
+104,Je me marie. Quels documents dois-je remettre pour pouvoir me marier ?,la question concerne la catégorie Famille,0
+105,Le juge choisit-il d'office l'hébergement égalitaire ?,la question concerne la catégorie Famille,0
+106,Je suis parent. Puis-je indexer la contribution alimentaire Comment calculer cette indexation ?,la question concerne la catégorie Famille,0
+107,J'héberge un ami/un proche. Dois-je éternellement héberger mon enfant ?,la question concerne la catégorie Logement,0
+108,Qui doit réparer le mur mitoyen ?,la question concerne la catégorie Logement,0
+109,"Qu’entend-on par « réparations rendues nécessaires par la vétusté, l’usure normale ou la force majeure » à Bruxelles ?",la question concerne la catégorie Logement,0
+110,Comment et à quelle fréquence s'organisent les visites de domicile en Wallonie ?,la question concerne la catégorie Logement,0
+111,Je me sépare. Quelles sont les conséquences de notre séparation en ce qui concerne nos enfants ?,la question concerne la catégorie Famille,0
+112,"J'héberge un ami/un proche. Mon ami a son adresse de référence chez moi, peut-on saisir mes meubles ?",la question concerne la catégorie Logement,0
+113,Dois-je avoir l'accord de l’autre parent pour partir en vacances avec mon enfant ?,la question concerne la catégorie Famille,0
+114,Le propriétaire peut-il mettre fin au bail officiel de colocation avant l’échéance à Bruxelles ?,la question concerne la catégorie Logement,0
+115,Combien de fois puis-je demander la prorogation pour circonstances exceptionnelles à Bruxelles ?,la question concerne la catégorie Logement,0
+116,Quels types de décisions relèvent de l'autorité parentale ?,la question concerne la catégorie Famille,0
+117,Qu’est-ce que la chambre de règlement amiable ?,la question concerne la catégorie Famille,0
+118,Je divorce. De quelles manières peut-on divorcer ?,la question concerne la catégorie Famille,0
+119,Je deviens cohabitant légal. Quelles démarches devons-nous faire pour devenir cohabitants légaux ?,la question concerne la catégorie Famille,0
+120,Qui doit payer l'état des lieux à Bruxelles ?,la question concerne la catégorie Logement,0
+121,Je me sépare. Mon partenaire peut-il me mettre à la porte si je suis domicilié(e) dans notre logement ?,la question concerne la catégorie Famille,0
+122,"Je suis victime de violences conjugales. Je suis un ami de la victime de violences conjugales, puis-je porter plainte ?",la question concerne la catégorie Famille,0
+123,"Les parents ne sont pas mariés ensemble. La mère de l'enfant est mariée à quelqu'un d'autre que le père. Quelles démarches pour reconnaître l'enfant si la mère de l'enfant et son mari résident, depuis plus de 300 jours officiellement à des domiciles différents ?",la question concerne la catégorie Famille,0
+124,Je suis parent. Quel est le juge vers lequel me tourner pour mes contributions alimentaires ?,la question concerne la catégorie Famille,0
+125,Je me sépare. Puis-je quitter le logement familial sans perdre mes droits si je suis cohabitant légal ?,la question concerne la catégorie Famille,0
+126,Je vis en couple. Devons-nous faire une convention de vie commune ?,la question concerne la catégorie Famille,0
+127,Comment organiser moi-même ma future mesure de protection (protection extra judiciaire) ?,la question concerne la catégorie Famille,0
+128,Qui doit payer la construction du mur mitoyen ?,la question concerne la catégorie Logement,0
+129,Je n'ai pas signé de bail. Quels sont mes droits à Bruxelles ?,la question concerne la catégorie Logement,0
+130,Que se passe-t-il au décès de la personne protégée ?,la question concerne la catégorie Famille,0
+131,Je suis marié(e). Dois-je avoir l'accord de mon conjoint pour exercer une profession ?,la question concerne la catégorie Famille,0
+132,Que faire si le propriétaire abuse du droit de visite en Wallonie ?,la question concerne la catégorie Logement,0
+133,Je souhaite divorcer par consentement mutuel. Puis-je demander une pension alimentaire à mon mari/ma femme ?,la question concerne la catégorie Famille,0
+134,Mon propriétaire peut-il réévaluer le montant de la garantie locative en cours de bail à Bruxelles ?,la question concerne la catégorie Logement,0
+135,Comment et à quelle fréquence s'organisent les visites de domicile en Wallonie ?,la question concerne la catégorie Logement,0
+136,J'héberge un ami/un proche. Puis-je héberger mon ami en échange d'une participation financière ?,la question concerne la catégorie Logement,0
+137,Le bail de 9 ans prend-il automatiquement fin à l’échéance à Bruxelles ?,la question concerne la catégorie Logement,0
+138,Je divorce. Comment se passe la procédure de divorce par consentement mutuel ?,la question concerne la catégorie Famille,0
+139,"J'héberge un ami/un proche. Mon ami prétend qu'un bail verbal existe entre nous, que puis-je faire ?",la question concerne la catégorie Logement,0
+140,Que faire si je n'obtiens pas la prorogation pour circonstances exceptionnelles en Wallonie ?,la question concerne la catégorie Logement,0
+141,Je suis victime de violences conjugales. Comment déceler la violence conjugale ?,la question concerne la catégorie Famille,0
+142,Puis-je demander de modifier une décision d'hébergement de mes enfants ?,la question concerne la catégorie Famille,0
+143,Les parents ne sont pas mariés ensemble. La mère de l'enfant est mariée à quelqu'un d'autre que le père. Peut-on m'obliger à établir un lien de filiation père/enfant si la mère est mariée à quelqu'un d'autre ?,la question concerne la catégorie Famille,0
+144,Mon propriétaire peut-il me réclamer des intérêts de retard à Bruxelles ?,la question concerne la catégorie Logement,0
+145,Qui prend les mesures urgentes pour le mineur le temps de la procédure ?,la question concerne la catégorie Famille,0
+146,Qui peut être désigné comme administrateur de biens et/ou de la personne ?,la question concerne la catégorie Famille,0
+147,Qui exerce l'autorité parentale si un des parents est seul pour prendre les décisions ?,la question concerne la catégorie Famille,0
+148,Je suis parent. Puis-je réclamer une contribution alimentaire à mon ex plusieurs années après notre séparation ?,la question concerne la catégorie Famille,0
+149,Puis-je demander une conciliation pour régler un conflit locatif à Bruxelles ?,la question concerne la catégorie Logement,0
+150,Comment organiser l'hébergement d'un enfant mineur ?,la question concerne la catégorie Famille,0
+151,"Si je meurs, mon enfant majeur peut-il continuer à occuper le logement social en Wallonie ?",la question concerne la catégorie Logement,0
+152,Un bail écrit est-il obligatoire en Wallonie ?,la question concerne la catégorie Logement,0
+153,Je suis marié(e). Puis-je ouvrir un compte en banque sans l'accord de mon conjoint ?,la question concerne la catégorie Famille,0
+154,Quelle est la différence entre le forfait et la provision pour charges à Bruxelles ?,la question concerne la catégorie Logement,0
+155,Qu’entend-on par entretiens et réparations à Bruxelles ?,la question concerne la catégorie Logement,0
+156,Qu'est-ce que je risque si j'occupe une maison sans autorisation (squat) à Bruxelles ?,la question concerne la catégorie Logement,0
+157,Je me marie. Dois-je aider mon conjoint s'il est dans le besoin ?,la question concerne la catégorie Famille,0
+158,Devant quel tribunal aller en cas de problème lié à la filiation ?,la question concerne la catégorie Famille,0
+159,Faut-il un permis de location à Bruxelles ?,la question concerne la catégorie Logement,0
+160,"Nous ne sommes pas mariés, quel nom portera notre enfant si son père le reconnaît avant ou à sa naissance ?",la question concerne la catégorie Famille,0
+161,"J'ai signé une déclaration de cohabitation légale. En cohabitation légale, qui doit payer le remboursement du prêt voiture ?",la question ne concerne pas la catégorie Famille,2
+162,Dois-je installer des détecteurs incendie en Wallonie ?,la question ne concerne pas la catégorie Logement,2
+163,Que se passe-t-il s'il n'y a pas d'état des lieux à Bruxelles ?,la question ne concerne pas la catégorie Logement,2
+164,En quoi suis-je responsable de mon enfant ?,la question ne concerne pas la catégorie Famille,2
+165,Quels sont les types de garantie locative à Bruxelles ?,la question ne concerne pas la catégorie Logement,2
+166,"J'héberge un ami/un proche. Mon ami a abîmé mon habitation, qui doit faire les réparations ?",la question ne concerne pas la catégorie Logement,2
+167,Un bail écrit est-il obligatoire à Bruxelles ?,la question ne concerne pas la catégorie Logement,2
+168,Je suis marié(e). Faut-il prendre une assurance RC familiale ?,la question ne concerne pas la catégorie Famille,2
+169,Les parents ne sont pas mariés ensemble. Peut-on me réclamer une aide financière pour l'enfant si je suis son père biologique mais pas légal ?,la question ne concerne pas la catégorie Famille,2
+170,Un colocataire seul peut-il mettre fin au bail officiel de colocation avant l'échéance à Bruxelles ?,la question ne concerne pas la catégorie Logement,2
+171,Je suis parent. Jusque quel âge dois-je continuer de payer une contribution alimentaire ?,la question ne concerne pas la catégorie Famille,2
+172,"Je suis victime de violences conjugales. Après le dépôt de plainte, que peut décider le parquet ?",la question ne concerne pas la catégorie Famille,2
+173,Je me sépare. Les mesures urgentes et provisoires prises par le juge de la famille sont-elles limitées dans le temps pour les cohabitants légaux ?,la question ne concerne pas la catégorie Famille,2
+174,Je deviens cohabitant légal. Devons-nous faire une convention de cohabitation légale ?,la question ne concerne pas la catégorie Famille,2
+175,J'ai signé une déclaration de cohabitation légale. Nous sommes cohabitants légaux. Qui doit rembourser le crédit hypothécaire ?,la question ne concerne pas la catégorie Famille,2
+176,Mon logement est reconnu inhabitable à cause de l'insalubrité. Mon logement fait l'objet d'un arrêté d'inhabitabilité à cause de l'insalubrité. Doit-on me reloger en Wallonie ?,la question ne concerne pas la catégorie Logement,2
+177,Comment et à quelle fréquence s'organisent les visites de domicile en Wallonie ?,la question ne concerne pas la catégorie Logement,2
+178,Est-ce que je dois installer des détecteurs incendie en Wallonie ?,la question ne concerne pas la catégorie Logement,2
+179,Les parents ne sont pas mariés ensemble. Puis-je être considéré comme le père de mon enfant décédé à la naissance ?,la question ne concerne pas la catégorie Famille,2
+180,"Mon voisin refuse de vendre sa mitoyenneté, que dois-je faire ?",la question ne concerne pas la catégorie Logement,2
+181,Je me marie. Sommes-nous obligés de faire un contrat de mariage ?,la question ne concerne pas la catégorie Famille,2
+182,Qui exerce l'autorité parentale si aucun des parents ne peut prendre de décisions ?,la question ne concerne pas la catégorie Famille,2
+183,J'ai divorcé pour cause de désunion irrémédiable. Puis-je indexer la pension alimentaire Comment calculer cette indexation ?,la question ne concerne pas la catégorie Famille,2
+184,L'allocation pour l'aide aux personnes âgées (APA) diminue-t-elle si je vis avec d'autres personnesà Bruxelles ?,la question ne concerne pas la catégorie Logement,2
+185,Pour quels problèmes faire appel à un médiateur familial ?,la question ne concerne pas la catégorie Famille,2
+186,Les parents ne sont pas mariés ensemble. Puis-je reconnaître mon enfant avant sa naissance et comment faire ?,la question ne concerne pas la catégorie Famille,2
+187,Je divorce. Je divorce par consentement mutuel. Comment se passe la procédure de divorce par consentement mutuel ?,la question ne concerne pas la catégorie Famille,2
+188,Le juge choisit-il d'office l'hébergement égalitaire ?,la question ne concerne pas la catégorie Famille,2
+189,Je me sépare. Peut-on se séparer d'un commun accord sans déclaration de fin de cohabitation légale ?,la question ne concerne pas la catégorie Famille,2
+190,Quelles charges dois-je payer en tant que locataire à Bruxelles ?,la question ne concerne pas la catégorie Logement,2
+191,Dois-je éternellement héberger mon enfant ?,la question ne concerne pas la catégorie Famille,2
+192,Peut-on m’interdire d’écouter ma musique avec le volume au maximum ?,la question ne concerne pas la catégorie Logement,2
+193,Je suis marié(e). Dois-je vivre sous le même toit que mon époux(se) ?,la question ne concerne pas la catégorie Famille,2
+194,"L'arbre de mon voisin a plus de 30 ans, puis-je demander son arrachage ?",la question ne concerne pas la catégorie Logement,2
+195,Je divorce. Je divorce par consentement mutuel. Qu'est-ce que le divorce par consentement mutuel ?,la question ne concerne pas la catégorie Famille,2
+196,Je me sépare. Comment la cohabitation légale prend-elle fin ?,la question ne concerne pas la catégorie Famille,2
+197,Je me marie. A quelles conditions puis-je me marier en Belgique ?,la question ne concerne pas la catégorie Famille,2
+198,Où et comment introduire la demande de mise sous administration de biens et/ou de la personne ?,la question ne concerne pas la catégorie Famille,2
+199,"Je me sépare. On se sépare, qui doit payer le loyer ?",la question ne concerne pas la catégorie Famille,2
+200,Mon propriétaire peut-il mettre fin au bail à vie à Bruxelles ?,la question ne concerne pas la catégorie Logement,2
+201,Une personne sous administration de biens et/ou de la personne peut-elle signer un bail en Wallonie ?,la question ne concerne pas la catégorie Logement,2
+202,Je n'ai pas signé de bail. Quels sont mes droits à Bruxelles ?,la question ne concerne pas la catégorie Logement,2
+203,"Je me sépare. En tant que cohabitants légaux, quelles sont les conséquences de notre séparation sur nos droits et devoirs l’un envers l’autre ?",la question ne concerne pas la catégorie Famille,2
+204,Mon propriétaire peut-il faire des travaux alors que j’occupe le logement à Bruxelles ?,la question ne concerne pas la catégorie Logement,2
+205,Que faire si le propriétaire refuse de libérer la garantie locative à Bruxelles ?,la question ne concerne pas la catégorie Logement,2
+206,Je suis parent. Peut-on régler à l'amiable les problèmes liés à la contribution alimentaire ?,la question ne concerne pas la catégorie Famille,2
+207,Mon propriétaire peut-il mettre fin au bail de 9 ans pour que ses enfants occupent le logement à Bruxelles ?,la question ne concerne pas la catégorie Logement,2
+208,Dois-je installer des détecteurs incendie en Wallonie ?,la question ne concerne pas la catégorie Logement,2
+209,Je me marie. Quelles démarches dois-je effectuer pour pouvoir me marier ?,la question ne concerne pas la catégorie Famille,2
+210,Je suis marié(e). Les biens que je possédais avant le mariage deviennent-ils communs ?,la question ne concerne pas la catégorie Famille,2
+211,Je suis séparé de mon mari/ma femme. Dois-je payer une pension alimentaire ?,la question ne concerne pas la catégorie Famille,2
+212,Mon propriétaire peut-il mettre fin au bail de longue durée avant l’échéance à Bruxelles ?,la question ne concerne pas la catégorie Logement,2
+213,"Je suis parent. Les frais extraordinaires, qu'est-ce que c'est ?",la question ne concerne pas la catégorie Famille,2
+214,Mon propriétaire peut-il m'expulser si je suis en retard de paiement à Bruxelles ?,la question ne concerne pas la catégorie Logement,2
+215,Le propriétaire peut-il m'envoyer un décompte des charges 2 ans après la fin de mon bail à Bruxelles ?,la question ne concerne pas la catégorie Logement,2
+216,Je me sépare. Comment se déroule la procédure de séparation devant le tribunal de la famille ?,la question ne concerne pas la catégorie Famille,2
+217,Je suis parent. Dois-je m'inquiéter pour la contribution alimentaire de mon fils si mon ex rentre en règlement collectif de dettes ?,la question ne concerne pas la catégorie Famille,2
+218,J'ai signé une déclaration de cohabitation légale. Dois-je aider mon cohabitant légal s’il est dans le besoin ?,la question ne concerne pas la catégorie Famille,2
+219,Je divorce. Dois-je invoquer une faute de mon conjoint pour divorcer ?,la question ne concerne pas la catégorie Famille,2
+220,Quelle est la mission de l'administrateur de biens ?,la question ne concerne pas la catégorie Famille,2
+221,Je divorce. Je divorce pour cause de désunion irrémédiable. Nous sommes d’accord de divorcer. Quels motifs de désunion irrémédiable peuvent justifier notre volonté de divorcer ?,la question ne concerne pas la catégorie Famille,2
+222,Mon propriétaire peut-il mettre d'initiative mes meubles à la rue ?,la question ne concerne pas la catégorie Logement,2
+223,Je suis victime de violences conjugales. Puis-je retirer ma plainte pour violences conjugales ?,la question ne concerne pas la catégorie Famille,2
+224,Que se passe-t-il si la personne protégée déménage ?,la question ne concerne pas la catégorie Famille,2
+225,Je suis victime de violences conjugales. Puis-je faire expulser l'auteur des violences conjugales du logement familial ?,la question ne concerne pas la catégorie Famille,2
+226,Je suis parent. Je n'ai pas confiance en mon ex. Sur quel autre compte puis-je payer la contribution alimentaire ?,la question ne concerne pas la catégorie Famille,2
+227,"Je n'ai pas de chambre pour chaque enfant, le juge refusera-t-il que j'héberge mes enfants ?",la question ne concerne pas la catégorie Famille,2
+228,Peut-on réclamer un loyer à un colocataire qui est parti à Bruxelles ?,la question ne concerne pas la catégorie Logement,2
+229,Je me sépare. Comment se déroule la procédure de séparation devant le tribunal de la famille ?,la question ne concerne pas la catégorie Famille,2
+230,Je me sépare. Comment demander des mesures urgentes et provisoires devant le tribunal de la famille ?,la question ne concerne pas la catégorie Famille,2
+231,Combien coûte la procédure de mise sous administration de biens et/ou de la personne ?,la question ne concerne pas la catégorie Famille,2
+232,Je vis en union libre. A qui appartiennent les différents biens si nous vivons en union libre ?,la question ne concerne pas la catégorie Famille,2
+233,L’indexation de mon loyer est-elle automatique à Bruxelles ?,la question ne concerne pas la catégorie Logement,2
+234,Mon propriétaire n’a pas enregistré le bail. Puis-je mettre fin au bail sans préavis ni indemnité à Bruxelles ?,la question ne concerne pas la catégorie Logement,2
+235,Je divorce. Je divorce par consentement mutuel. Quand serons-nous officiellement divorcés (divorce par consentement mutuel) ?,la question ne concerne pas la catégorie Famille,2
+236,Je mets un kot en location (bail de droit commun). Que se passe-t-il si je n'ai pas demandé le permis de location en Wallonie ?,la question ne concerne pas la catégorie Logement,2
+237,Comment se déroule la procédure judiciaire en vue de récupérer la garantie locative à Bruxelles ?,la question ne concerne pas la catégorie Logement,2
+238,Je souhaite divorcer pour cause de désunion irrémédiable. Puis-je demander une pension alimentaire à mon mari/ma femme ?,la question ne concerne pas la catégorie Famille,2
+239,Le loyer de mon bail étudiant sera-t-il indexé à Bruxelles ?,la question ne concerne pas la catégorie Logement,2
+240,Faut-il un permis de location pour une colocation en Wallonie ?,la question ne concerne pas la catégorie Logement,2
+241,Que faire en cas d'abus du droit de visite à Bruxelles ?,la question ne concerne pas la catégorie Logement,2
+242,Mon propriétaire n’a pas enregistré le bail. Puis-je mettre fin au bail sans préavis ni indemnité à Bruxelles ?,la question ne concerne pas la catégorie Logement,2
+243,Puis-je être mis sous administration de biens si je gère mal mon argent ?,la question ne concerne pas la catégorie Famille,2
+244,Quel est le rôle du CPAS en cas d'expulsion à Bruxelles ?,la question ne concerne pas la catégorie Logement,2
+245,J'ai signé une déclaration de cohabitation légale. Je reçois un héritage. Est-ce que mon cohabitant légal en profite aussi ?,la question ne concerne pas la catégorie Famille,2
+246,Je suis victime de violences conjugales. Suis-je concernée par la violence conjugale ?,la question ne concerne pas la catégorie Famille,2
+247,Je suis victime de violences conjugales. Quelles formes prennent les violences conjugales ?,la question ne concerne pas la catégorie Famille,2
+248,Que faire si on ne parvient pas à obtenir le certificat médical circonstancié ?,la question ne concerne pas la catégorie Famille,2
+249,"Je me sépare. En tant que cohabitants légaux, quelles sont les conséquences de notre séparation sur nos droits et devoirs l’un envers l’autre ?",la question ne concerne pas la catégorie Famille,2
+250,Faut-il être assisté d'un avocat lors de la procédure de mise sous administration de biens et/ou de la personne ?,la question ne concerne pas la catégorie Famille,2
+251,Je suis marié(e). Le salaire de mon conjoint m’appartient-il aussi ?,la question ne concerne pas la catégorie Famille,2
+252,"J'étais sous minorité prolongée, que s'est-il passé au 1er septembre 2019 ?",la question ne concerne pas la catégorie Famille,2
+253,"Nous ne sommes pas mariés, quel nom portera notre enfant si son père le reconnaît après qu'il ait été déclaré à la commune ?",la question ne concerne pas la catégorie Famille,2
+254,Mon propriétaire peut-il mettre fin au bail de 9 ans sans motif à Bruxelles ?,la question ne concerne pas la catégorie Logement,2
+255,Dégâts dans le logement : qui paie quoi à Bruxelles ?,la question ne concerne pas la catégorie Logement,2
+256,Comment savoir quel est le tribunal de la famille compétent pour mon problème ?,la question ne concerne pas la catégorie Famille,2
+257,Que faire si je ne peux pas me mettre d'accord avec l'autre parent pour une décision concernant notre enfant mineur ?,la question ne concerne pas la catégorie Famille,2
+258,Puis-je construire une dalle de béton contre le mur mitoyen ?,la question ne concerne pas la catégorie Logement,2
+259,Je vis avec mon compagnon et/ou mes enfants. Mon compagnon peut-il me mettre à la porte si je suis domiciliée chez lui ?,la question ne concerne pas la catégorie Logement,2
+260,Je divorce. Quelles sont les conséquences de notre divorce en ce qui concerne nos enfants ?,la question ne concerne pas la catégorie Famille,2
+261,Puis-je demander une conciliation pour régler un conflit locatif en Wallonie ?,la question ne concerne pas la catégorie Logement,2
+262,Qu’est-ce que je risque si je fais du bruit la nuit dans mon jardin ou dans la rue ?,la question ne concerne pas la catégorie Logement,2
+263,Je suis marié(e). Dois-je aider les parents de mon conjoint qui sont dans le besoin ?,la question ne concerne pas la catégorie Famille,2
+264,Je suis marié(e). Nous sommes mariés. L'un de nous peut-il mettre l'autre à la porte ?,la question ne concerne pas la catégorie Famille,2
+265,Que faire si je ne suis pas d'accord avec les décisions prises à propos de mes petits-enfants ?,la question ne concerne pas la catégorie Famille,2
+266,Comment rédiger un état des lieux à Bruxelles ?,la question ne concerne pas la catégorie Logement,2
+267,Je suis parent. J'ai entendu parler de la méthode Renard. De quoi s'agit-il ?,la question ne concerne pas la catégorie Famille,2
+268,Dois-je payer les frais de justice si je conteste une décision d’un organisme de sécurité sociale à Bruxelles ?,la question ne concerne pas la catégorie Logement,2
+269,Pourquoi y a-t-il parfois deux tuteurs pour un enfant mineur ?,la question ne concerne pas la catégorie Famille,2
+270,Comment vérifier les charges qui me sont facturées à Bruxelles ?,la question ne concerne pas la catégorie Logement,2
+271,Qu'est-ce qu'un certificat médical circonstancié ?,la question ne concerne pas la catégorie Famille,2
+272,Que faire si je n'obtiens pas la prorogation pour circonstances exceptionnelles en Wallonie ?,la question ne concerne pas la catégorie Logement,2
+273,Comment savoir si quelqu'un est placé sous administration de biens et/ou de la personne ?,la question ne concerne pas la catégorie Famille,2
+274,Nous ne sommes pas mariés. Peut-on m'obliger à établir un lien de filiation avec mon enfant si ni moi ni la mère ne sommes mariés ?,la question ne concerne pas la catégorie Famille,2
+275,"Nous ne sommes pas mariés, quel nom portera mon enfant si le père ne le reconnaît pas ?",la question ne concerne pas la catégorie Famille,2
+276,Je mets un appartement ou une maison en location (bail de résidence principale). Qui doit payer les frais liés à la procédure d’expulsion en Wallonie ?,la question ne concerne pas la catégorie Logement,2
+277,L'état des lieux est-il obligatoire à Bruxelles ?,la question ne concerne pas la catégorie Logement,2
+278,Comment mettre fin au bail de commun accord à Bruxelles ?,la question ne concerne pas la catégorie Logement,2
+279,Quand puis-je récupérer la garantie locative à Bruxelles ?,la question ne concerne pas la catégorie Logement,2
+280,Mon propriétaire a mis fin au bail. Puis-je partir avant la fin de son délai de préavis à Bruxelles ?,la question ne concerne pas la catégorie Logement,2
+281,"Mon propriétaire ne fait pas les réparations nécessaires, puis-je suspendre le paiement de mon loyer à Bruxelles ?",la question ne concerne pas la catégorie Logement,2
+282,Mon bail est-il un contrat de bail étudiant à Bruxelles ?,la question ne concerne pas la catégorie Logement,2
+283,Peut-on faire annuler un lien de filiation établi entre une mère/un père et son enfant ?,la question ne concerne pas la catégorie Famille,2
+284,Combien me coûte mon administrateur de biens ou de la personne ?,la question ne concerne pas la catégorie Famille,2
+285,"La situation a changé depuis le jugement, comment obtenir une nouvelle décision du juge de la famille ?",la question ne concerne pas la catégorie Famille,2
+286,"L'arbre de mon voisin me dérange, puis-je l'élaguer ou le faire couper ?",la question ne concerne pas la catégorie Logement,2
+287,Puis-je m'adresser au juge de paix pour régler un conflit locatif à Bruxelles ?,la question ne concerne pas la catégorie Logement,2
+288,Je suis parent. L'employeur de mon ex peut-il me payer directement la contribution alimentaire (délégation de sommes) ?,la question ne concerne pas la catégorie Famille,2
+289,Je suis parent. Je suis père/mère de l'enfant. Dois-je payer une contribution alimentaire ?,la question ne concerne pas la catégorie Famille,2
+290,Comment puis-je mettre fin à mon bail étudiant à Bruxelles ?,la question ne concerne pas la catégorie Logement,2
+291,Les parents ne sont pas mariés ensemble. Devant quel tribunal aller en cas de problème lié à la filiation ?,la question ne concerne pas la catégorie Famille,2
+292,Puis-je demander de modifier une décision d'hébergement de mes enfants ?,la question ne concerne pas la catégorie Famille,2
+293,Dois-je demander un permis d’urbanisme si je divise ma maison en deux à Bruxelles ?,la question ne concerne pas la catégorie Logement,2
+294,"Comment prouver que je ne suis pas responsable en tant que parent, des actes commis par mon enfant mineur ?",la question ne concerne pas la catégorie Famille,2
+295,Qu'est-ce que la tutelle d'un enfant mineur ?,la question ne concerne pas la catégorie Famille,2
+296,"J'héberge un ami/un proche. J'héberge gratuitement quelqu'un, puis-je le mettre dehors ?",la question ne concerne pas la catégorie Logement,2
+297,Quand le juge de paix peut-il mettre fin au bail à Bruxelles ?,la question ne concerne pas la catégorie Logement,2
+298,Je suis père/mère de l'enfant. Dois-je payer une contribution alimentaire ?,la question ne concerne pas la catégorie Famille,2
+299,Une expulsion est-elle rapide à Bruxelles ?,la question ne concerne pas la catégorie Logement,2
+300,"Nous sommes mariés, quel nom portera notre enfant ?",la question ne concerne pas la catégorie Famille,2
+301,Mon propriétaire peut-il mettre d'initiative mes meubles à la rue en Wallonie ?,la question ne concerne pas la catégorie Logement,2
+302,Comment récupérer la garantie locative à Bruxelles ?,la question ne concerne pas la catégorie Logement,2
+303,Le tuteur est-il obligé d'accepter sa désignation ?,la question ne concerne pas la catégorie Famille,2
+304,Quelle est la durée d'un bail de colocation à Bruxelles ?,la question ne concerne pas la catégorie Logement,2
+305,Je vis en couple. A qui appartiennent les différents biens si nous vivons en union libre ?,la question ne concerne pas la catégorie Famille,2
+306,Le propriétaire ne me rembourse pas le surplus de mes provisions de charges. Quel est mon recours à Bruxelles ?,la question ne concerne pas la catégorie Logement,2
+307,Dois-je installer des détecteurs incendie à Bruxelles ?,la question ne concerne pas la catégorie Logement,2
+308,"J'ai signé une déclaration de cohabitation légale. En tant que cohabitant légal, dois-je contribuer aux frais de ménage si je n’ai pas ou peu de ressources ?",la question ne concerne pas la catégorie Famille,2
+309,Je suis parent. Comment puis-je déterminer le montant de la contribution alimentaire ?,la question ne concerne pas la catégorie Famille,2
+310,Les père et mère de l'enfant résident ensemble. Qui peut prendre les décisions concernant l'enfant si les parents vivent ensemble ?,la question ne concerne pas la catégorie Famille,2
+311,Quel bail est considéré comme un bail 9 ans à Bruxelles ?,la question ne concerne pas la catégorie Logement,2
+312,Mon propriétaire peut-il mettre tous les frais qu’il veut à ma charge à Bruxelles ?,la question ne concerne pas la catégorie Logement,2
+313,Quand le juge de paix peut-il mettre fin au bail à Bruxelles ?,la question ne concerne pas la catégorie Logement,2
+314,Puis-je ne pas payer mes 2 derniers mois de loyer pour m'assurer de récupérer la garantie locative à Bruxelles ?,la question ne concerne pas la catégorie Logement,2
+315,Quels types de décisions relèvent de l'autorité parentale ?,la question ne concerne pas la catégorie Famille,2
+316,En quoi suis-je responsable de mon enfant ?,la question ne concerne pas la catégorie Famille,2
+317,Je vis en couple. A qui appartient la maison construite ensemble sur mon terrain ?,la question ne concerne pas la catégorie Famille,2
+318,Comment récupérer la garantie locative à Bruxelles ?,la question ne concerne pas la catégorie Logement,2
+319,Puis-je ne pas payer mes 2 derniers mois de loyer pour m'assurer de récupérer la garantie locative à Bruxelles ?,la question ne concerne pas la catégorie Logement,2
+320,Les parents ne sont pas mariés ensemble. La mère de l'enfant est mariée à quelqu'un d'autre que le père. Puis-je être considéré comme le père de mon enfant décédé à la naissance ?,la question ne concerne pas la catégorie Famille,2
+321,"Notre propriétaire n'effectue pas les réparations, que faire à Bruxelles ?",la question ne concerne pas la catégorie Logement,2
+322,Le propriétaire peut-il réclamer l’entièreté du loyer à un seul colocataire à Bruxelles ?,la question concerne la catégorie Famille,1
+323,Mon loyer peut-il être indexé à Bruxelles ?,la question concerne la catégorie Travail,1
+324,Je deviens cohabitant légal. Nous sommes inscrits à la même adresse. Sommes-nous cohabitants légaux ?,la question concerne la catégorie Etrangers,1
+325,Peut-on prévoir à l'avance toutes les modalités d'hébergement des enfants ?,la question concerne la catégorie Etrangers,1
+326,Je divorce. Je divorce par consentement mutuel. Comment introduire une demande de divorce une fois nos conventions rédigées ?,la question concerne la catégorie Justice,1
+327,La personne protégée peut-elle prendre un abonnement ?,la question concerne la catégorie Protection sociale,1
+328,Je divorce. Je divorce pour cause de désunion irrémédiable. Quand serons-nous officiellement divorcés (divorce pour cause de désunion irrémédiable) ?,la question concerne la catégorie Justice,1
+329,Mon administrateur peut-il m'interdire de conduire ?,la question concerne la catégorie Etrangers,1
+330,Est-ce que je dois installer des détecteurs incendie en Wallonie ?,la question concerne la catégorie Argent,1
+331,Je souhaite divorcer par consentement mutuel. Comment fixer le montant de la pension alimentaire ?,la question concerne la catégorie Etrangers,1
+332,Je me sépare. Quelles sont les conséquences de notre séparation en ce qui concerne nos enfants ?,la question concerne la catégorie Justice,1
+333,Mon propriétaire peut-il me réclamer des arriérés d'indexation de loyer à Bruxelles ?,la question concerne la catégorie Protection sociale,1
+334,Qui décide d’accorder la prorogation pour circonstances exceptionnelles à Bruxelles ?,la question concerne la catégorie Etrangers,1
+335,Je suis marié(e). Puis-je louer ou vendre notre maison sans l'accord de mon conjoint ?,la question concerne la catégorie Logement,1
+336,Que peut faire l'enfant en cas de conflit avec son tuteur ?,la question concerne la catégorie Logement,1
+337,Je loue un garage. Quelles règles s'appliquent à mon bail en Wallonie ?,la question concerne la catégorie Justice,1
+338,Je me sépare. Quand le tribunal de la famille peut-il intervenir pour des mesures urgentes et provisoires ?,la question concerne la catégorie Logement,1
+339,Je suis grand-parent. Ai-je droit à des contacts avec mes petits-enfants ?,la question concerne la catégorie Travail,1
+340,Je me sépare. Peut-on se séparer d'un commun accord sans déclaration de fin de cohabitation légale ?,la question concerne la catégorie Logement,1
+341,"Les parents ne sont pas mariés ensemble. La mère de l'enfant est mariée à quelqu'un d'autre que le père. Quelles démarches pour reconnaître l'enfant si la mère de l'enfant et son mari résident ensemble ou, séparés, sont domiciliés à la même adresse ?",la question concerne la catégorie Protection sociale,1
+342,Qui peut être entendu par le juge de paix lors de la procédure de mise sous administration de biens et/ou de la personne ?,la question concerne la catégorie Travail,1
+343,"Les père et mère de l'enfant résident ensemble. L'école, le médecin, etc. doivent-ils toujours demander l'accord des 2 parents pour les décisions concernant l'enfant ?",la question concerne la catégorie Justice,1
+344,Le propriétaire peut-il m'envoyer un décompte des charges deux ans après la fin de mon bail en Wallonie ?,la question concerne la catégorie Argent,1
+345,Je mets un appartement ou une maison en location (bail de résidence principale). Comment faire pour expulser mon locataire en Wallonie ?,la question concerne la catégorie Argent,1
+346,A quoi sert la garantie locative à Bruxelles ?,la question concerne la catégorie Argent,1
+347,J'ai signé une déclaration de cohabitation légale. Nous sommes cohabitants légaux. Dois-je reconnaître notre enfant ?,la question concerne la catégorie Protection sociale,1
+348,Je suis parent. Mon ex ne paie plus la contribution alimentaire. Risque-t-il l'emprisonnement ?,la question concerne la catégorie Etrangers,1
+349,Je mets un appartement ou une maison en location (bail de résidence principale). Puis-je mettre mon locataire à la porte en Wallonie ?,la question concerne la catégorie Famille,1
+350,Que faire si je ne suis pas d'accord avec la décision du CPAS à Bruxelles ?,la question concerne la catégorie Travail,1
+351,Un mineur a signé un contrat de bail. Quelle est la valeur de ce contrat à Bruxelles ?,la question concerne la catégorie Argent,1
+352,Comment mettre fin au bail de commun accord à Bruxelles ?,la question concerne la catégorie Argent,1
+353,"Je suis parent. J'arrête de payer la contribution alimentaire, dois-je acter cela quelque part ?",la question concerne la catégorie Etrangers,1
+354,"Je me sépare. En tant que cohabitants légaux, quel juge peut régler nos problèmes avant séparation ?",la question concerne la catégorie Logement,1
+355,Je souhaite divorcer pour cause de désunion irrémédiable. Comment fixer le montant de la pension alimentaire ?,la question concerne la catégorie Etrangers,1
+356,Je divorce. Je divorce pour cause de désunion irrémédiable. Dans quels cas choisir le divorce pour cause de désunion irrémédiable ?,la question concerne la catégorie Etrangers,1
+357,"Je ne suis pas d'accord avec l'état des lieux, que faire à Bruxelles ?",la question concerne la catégorie Etrangers,1
+358,"L’appartement que je loue a été vendu, le nouveau propriétaire peut-il me mettre dehors à Bruxelles ?",la question concerne la catégorie Argent,1
+359,"L'arbre de mon voisin me dérange, quelles sont les distances de plantation ?",la question concerne la catégorie Justice,1
+360,Je me sépare. Comment introduire une demande de mesures urgentes et provisoires devant le tribunal de la famille ?,la question concerne la catégorie Justice,1
+361,Est-ce légal de conclure un bail à vie à Bruxelles ?,la question concerne la catégorie Argent,1
+362,Mon propriétaire peut-il me réclamer des intérêts de retard en Wallonie ?,la question concerne la catégorie Protection sociale,1
+363,Comment mettre fin au bail de commun accord à Bruxelles ?,la question concerne la catégorie Protection sociale,1
+364,Dois-je installer des détecteurs incendie à Bruxelles ?,la question concerne la catégorie Travail,1
+365,Je suis parent. Dois-je encore payer la contribution alimentaire si mon enfant majeur quitte la maison ?,la question concerne la catégorie Logement,1
+366,Les parents ne sont pas mariés ensemble. Quelles démarches effectuer pour être reconnu comme le père de mon enfant si la mère a divorcé moins de 300 jours avant la naissance ?,la question concerne la catégorie Travail,1
+367,L'administrateur de biens peut-il s'opposer à une dépense ?,la question concerne la catégorie Etrangers,1
+368,Qu’est-ce qu’un bail de rénovation à Bruxelles ?,la question concerne la catégorie Justice,1
+369,"Je me sépare. On se sépare, quel est le sort de la maison achetée ensemble ?",la question concerne la catégorie Logement,1
+370,Dois-je signaler ma grossesse à l'entretien d'embauche ?,la question concerne la catégorie Justice,1
+371,L'administrateur de biens et/ou de la personne peut-il tout faire ?,la question concerne la catégorie Etrangers,1
+372,Quelle est la durée d'un bail de colocation à Bruxelles ?,la question concerne la catégorie Travail,1
+373,Comment mettre fin au bail de commun accord à Bruxelles ?,la question concerne la catégorie Etrangers,1
+374,Je suis victime de violences conjugales. Quels sont mes droits en tant que personne lésée ou partie civile ?,la question concerne la catégorie Travail,1
+375,A quoi correspondent les charges à Bruxelles ?,la question concerne la catégorie Justice,1
+376,Pourquoi faut-il déclarer l'enfant à la commune ?,la question concerne la catégorie Logement,1
+377,Je suis marié(e). Mon conjoint touche un héritage. Est-ce que j'en profite aussi ?,la question concerne la catégorie Travail,1
+378,La garantie locative est-elle obligatoire à Bruxelles ?,la question concerne la catégorie Justice,1
+379,Où trouver un modèle de requête en matière de bail à Bruxelles ?,la question concerne la catégorie Famille,1
+380,Le CPAS peut-il m'aider à constituer une garantie locative à Bruxelles ?,la question concerne la catégorie Protection sociale,1
+381,Quand le juge de paix peut-il mettre fin au bail à Bruxelles ?,la question concerne la catégorie Travail,1
+382,Je me sépare. A quoi servent les mesures urgentes et provisoires ?,la question concerne la catégorie Logement,1
+383,Un enfant mineur peut-il prendre des décisions seul ?,la question concerne la catégorie Etrangers,1
+384,"Je n'ai pas de chambre pour chaque enfant, le juge refusera-t-il que j'héberge mes enfants ?",la question concerne la catégorie Justice,1
+385,Les père et mère de l'enfant résident séparément. Que faire si je n'arrive pas à me mettre d'accord avec l'autre parent pour une décision concernant notre enfant ?,la question concerne la catégorie Argent,1
+386,Je suis grand-parent. Ai-je droit à des contacts avec mes petits-enfants ?,la question concerne la catégorie Argent,1
+387,Je suis marié(e). Nous sommes mariés. A qui appartient la voiture ?,la question concerne la catégorie Argent,1
+388,"Je suis victime de violences conjugales. En tant que victime de violences conjugales, puis-je demander l'hébergement exclusif de mes enfants ?",la question concerne la catégorie Protection sociale,1
+389,Mon propriétaire a mis fin au bail. Puis-je partir avant la fin de son délai de préavis à Bruxelles ?,la question concerne la catégorie Justice,1
+390,Qui désigne le tuteur ?,la question concerne la catégorie Travail,1
+391,J'ai divorcé par consentement mutuel. Puis-je modifier le montant de la pension alimentaire ?,la question concerne la catégorie Logement,1
+392,A quelles conditions puis-je obtenir la prorogation pour circonstances exceptionnelles à Bruxelles ?,la question concerne la catégorie Argent,1
+393,Quand et comment constituer une garantie locative à Bruxelles ?,la question concerne la catégorie Travail,1
+394,Dois-je avoir l'accord de l’autre parent pour partir en vacances avec mon enfant ?,la question concerne la catégorie Etrangers,1
+395,Un colocataire seul peut-il mettre fin au bail non officiel de colocation avant l'échéance en Wallonie ?,la question concerne la catégorie Travail,1
+396,Qui peut contester la paternité ou la maternité et dans quel délai ?,la question concerne la catégorie Etrangers,1
+397,Puis-je mettre fin à mon bail de courte durée avant l’échéance à Bruxelles ?,la question concerne la catégorie Argent,1
+398,Mon bail est-il un bail officiel de colocation à Bruxelles ?,la question concerne la catégorie Travail,1
+399,Qui peut introduire la demande de mise sous administration de biens et/ou de la personne ?,la question concerne la catégorie Logement,1
+400,Mon propriétaire peut-il m'expulser si je suis en retard de paiement en Wallonie ?,la question concerne la catégorie Famille,1
+401,Comment contester un refus d'adresse de référence ?,la question concerne la catégorie Travail,1
+402,Je ne suis pas d'accord avec le jugement rendu par le tribunal de la jeunesse. Est-ce que je dispose d'un recours en Wallonie ?,la question concerne la catégorie Argent,1
+403,Devant quel tribunal aller en cas de problème lié à la filiation ?,la question concerne la catégorie Etrangers,1
+404,Que faire si nous sommes d’accord sur certains points mais pas sur tout ?,la question concerne la catégorie Justice,1
+405,Je suis parent. Puis-je demander une augmentation de la contribution alimentaire si ma fille commence des études supérieures ?,la question concerne la catégorie Etrangers,1
+406,J'ai signé une déclaration de cohabitation légale. Faut-il ouvrir un compte commun si on est cohabitants légaux ?,la question concerne la catégorie Argent,1
+407,Puis-je désigner à l'avance ma personne de confiance ?,la question concerne la catégorie Justice,1
+408,"Nous sommes mariés. Nous sommes séparés, vais-je être reconnu comme le père de l'enfant ?",la question concerne la catégorie Justice,1
+409,Hébergement d'amis : le propriétaire peut-il m'interdire de le faire à Bruxelles ?,la question concerne la catégorie Argent,1
+410,Les parents ne sont pas mariés ensemble. Le père de l'enfant est marié à quelqu'un d'autre que la mère. Peut-on me réclamer une aide financière pour l'enfant si je suis son père biologique mais pas légal ?,la question concerne la catégorie Logement,1
+411,Quels sont les entretiens et réparations à charge du locataire à Bruxelles ?,la question concerne la catégorie Justice,1
+412,"Les parents sont mariés ensemble. Nous sommes séparés, vais-je être reconnu comme le père de l'enfant ?",la question concerne la catégorie Travail,1
+413,Je me sépare. A quoi servent les mesures urgentes et provisoires ?,la question concerne la catégorie Protection sociale,1
+414,Nous ne sommes pas mariés. Peut-on me réclamer une aide financière pour l'enfant si je suis son père biologique mais pas légal ?,la question concerne la catégorie Argent,1
+415,Les parents ne sont pas mariés ensemble. Peut-on m'obliger à établir un lien de filiation avec mon enfant si ni moi ni la mère ne sommes mariés ?,la question concerne la catégorie Etrangers,1
+416,Un colocataire seul peut-il mettre fin au bail non officiel de colocation avant l'échéance à Bruxelles ?,la question concerne la catégorie Justice,1
+417,Comment changer de nom ou de prénom ?,la question concerne la catégorie Logement,1
+418,Peut-on saisir mes meubles pour les dettes de mon colocataire en Wallonie ?,la question concerne la catégorie Argent,1
+419,Mon bail de colocation est-il aussi un bail de résidence principale à Bruxelles ?,la question concerne la catégorie Protection sociale,1
+420,Quelles sont les conséquences du bail de résidence principale à Bruxelles ?,la question concerne la catégorie Protection sociale,1
+421,Est-ce que je dois faire entretenir la chaudière chaque année à Bruxelles ?,la question concerne la catégorie Protection sociale,1
+422,Que faire si je reçois un décompte de charges deux ans après la fin de mon bail en Wallonie ?,la question concerne la catégorie Famille,1
+423,Je suis marié(e). Dois-je aider mon conjoint s'il est dans le besoin ?,la question concerne la catégorie Logement,1
+424,"Mon propriétaire ne fait pas les réparations nécessaires, puis-je rompre le bail à Bruxelles ?",la question concerne la catégorie Travail,1
+425,Le nom de mon enfant est mal orthographié dans son acte de naissance. Puis-je faire corriger cette erreur ?,la question concerne la catégorie Justice,1
+426,Je deviens cohabitant légal. Que se passe-t-il en cas de décès de l'un des cohabitants légaux ?,la question concerne la catégorie Justice,1
+427,Comment répartir les obligations entre les colocataires à Bruxelles ?,la question concerne la catégorie Famille,1
+428,"Le père biologique, mais non légal, doit-il payer une contribution alimentaire pour mon enfant ?",la question concerne la catégorie Argent,1
+429,Dois-je payer une pension alimentaire à mes grands-parents et mes arrières grands-parents ?,la question concerne la catégorie Logement,1
+430,Comment organiser l'hébergement d'un enfant mineur ?,la question concerne la catégorie Travail,1
+431,La personne protégée peut-elle faire un testament ou une donation ?,la question concerne la catégorie Argent,1
+432,Le propriétaire peut-il me réclamer des dégâts locatifs après mon départ à Bruxelles ?,la question concerne la catégorie Justice,1
+433,Je mets un kot en location (bail de droit commun). Dois-je installer des détecteurs incendie en Wallonie ?,la question concerne la catégorie Travail,1
+434,Je suis marié(e). Faut-il ouvrir un compte commun si on est mariés ?,la question concerne la catégorie Etrangers,1
+435,Je suis victime de violences conjugales. Que faire si ma plainte pour violences conjugales est classée sans suite ?,la question concerne la catégorie Justice,1
+436,J'héberge un ami/un proche. Mon ami est domicilié chez moi. Peut-on saisir mes meubles ?,la question concerne la catégorie Famille,1
+437,"A quoi, à qui et quand sert la prorogation pour circonstances exceptionnelles à Bruxelles ?",la question concerne la catégorie Etrangers,1
+438,Puis-je faire annuler le bail étudiant que j’ai signé pour l’année prochaine à Bruxelles ?,la question concerne la catégorie Argent,1
+439,"Je me sépare. En tant que cohabitants légaux, quelles sont les conséquences de notre séparation sur nos biens ?",la question concerne la catégorie Justice,1
+440,Je suis victime de violences conjugales. Comment porter plainte pour violences conjugales ?,la question concerne la catégorie Argent,1
+441,Le propriétaire peut-il m'envoyer un décompte des charges deux ans après la fin de mon bail en Wallonie ?,la question concerne la catégorie Travail,1
+442,Comment prolonger ou renouveler un bail étudiant à Bruxelles ?,la question concerne la catégorie Protection sociale,1
+443,Je deviens cohabitant légal. Nous sommes cohabitants légaux. Qui doit rembourser le crédit hypothécaire ?,la question concerne la catégorie Argent,1
+444,Je me sépare. Comment introduire une demande de mesures urgentes et provisoires devant le tribunal de la famille ?,la question concerne la catégorie Justice,1
+445,Je divorce. Je divorce pour cause de désunion irrémédiable. Nous sommes d’accord de divorcer. Comment prouver notre séparation de fait ?,la question concerne la catégorie Travail,1
+446,Un mineur a signé un contrat de bail. Quelle est la valeur de ce contrat en Wallonie ?,la question concerne la catégorie Famille,1
+447,Je divorce. Je divorce pour cause de désunion irrémédiable. Nous sommes d’accord de divorcer. Comment introduire ensemble une demande de divorce pour cause de désunion irrémédiable ?,la question concerne la catégorie Protection sociale,1
+448,Je me marie. Quel type de régime matrimonial choisir ?,la question concerne la catégorie Logement,1
+449,"Je me sépare. On se sépare, qui doit payer le loyer ?",la question concerne la catégorie Justice,1
+450,"Si mon propriétaire fait des travaux dans mon logement, puis-je rompre le bail à Bruxelles ?",la question concerne la catégorie Famille,1
+451,Mon propriétaire exige une garantie locative de 3 mois. Est-ce légal à Bruxelles ?,la question concerne la catégorie Protection sociale,1
+452,Comment introduire un recours contre la décision d’un organisme de sécurité sociale en Wallonie ?,la question concerne la catégorie Justice,1
+453,Que faire si je ne suis pas d’accord avec le jugement du tribunal de la famille ?,la question concerne la catégorie Travail,1
+454,Je suis marié(e). Qui doit payer le remboursement d’un prêt si nous sommes mariés ?,la question concerne la catégorie Logement,1
+455,Je me marie. Dans quels cas peut-on refuser notre mariage ?,la question concerne la catégorie Justice,1
+456,Peut-on réclamer un loyer à un colocataire qui est parti à Bruxelles ?,la question concerne la catégorie Protection sociale,1
+457,Je me sépare. Puis-je demander au juge qu’il prenne des mesures urgentes et provisoires par rapport à nos biens ?,la question concerne la catégorie Etrangers,1
+458,Que faire si le propriétaire abuse du droit de visite en Wallonie ?,la question concerne la catégorie Famille,1
+459,Quelle est la durée d’un bail étudiant à Bruxelles ?,la question concerne la catégorie Protection sociale,1
+460,Comment éviter l'expulsion à Bruxelles ?,la question concerne la catégorie Etrangers,1
+461,"J'héberge un ami/un proche. Puis-je héberger qui je veux, comme je veux ?",la question concerne la catégorie Argent,1
+462,"Je me sépare. En tant que cohabitants légaux, quelles sont les conséquences de notre séparation sur nos biens ?",la question concerne la catégorie Travail,1
+463,Je suis parent. Mon ex ne paie pas la contribution alimentaire. Puis-je saisir ses revenus ?,la question concerne la catégorie Logement,1
+464,Les parents ne sont pas mariés ensemble. La mère de l'enfant est mariée à quelqu'un d'autre que le père. Devant quel tribunal aller en cas de problème lié à la filiation ?,la question concerne la catégorie Etrangers,1
+465,Mon voisin peut-il tondre le dimanche ?,la question concerne la catégorie Protection sociale,1
+466,Les parents sont mariés ensemble. Quelles démarches effectuer pour être reconnu comme le père de mon enfant si nous sommes mariés ?,la question concerne la catégorie Protection sociale,1
+467,Je deviens cohabitant légal. Nous sommes cohabitants légaux. Dois-je reconnaître notre enfant ?,la question concerne la catégorie Justice,1
+468,Puis-je mettre fin à mon bail de longue durée avant l’échéance à Bruxelles ?,la question concerne la catégorie Famille,1
+469,Je me marie. Que se passe-t-il si on retarde la célébration de mon mariage ?,la question concerne la catégorie Protection sociale,1
+470,"Je me sépare. En tant que cohabitants légaux, quelles mesures peut prendre le juge de la famille pour nos biens et nos dettes ?",la question concerne la catégorie Protection sociale,1
+471,"Nous ne sommes pas mariés, quel nom portera notre enfant si son père le reconnaît avant ou à sa naissance ?",la question concerne la catégorie Protection sociale,1
+472,Une personne sous protection judiciaire à Bruxelles ?,la question concerne la catégorie Argent,1
+473,Je divorce. Je divorce pour cause de désunion irrémédiable. Puis-je demander seul(e) le divorce sur base de notre séparation de fait ?,la question concerne la catégorie Argent,1
+474,Les parents ne sont pas mariés ensemble. Le père de l'enfant est marié à quelqu'un d'autre que la mère. Peut-on m'obliger à établir un lien de filiation père/enfant si je suis marié à quelqu'un d'autre que la mère ?,la question concerne la catégorie Argent,1
+475,Puis-je m'adresser au juge de paix pour régler un conflit locatif en Wallonie ?,la question concerne la catégorie Protection sociale,1
+476,Comment contester la valeur de reprise de la mitoyenneté proposée par l'acheteur ?,la question concerne la catégorie Famille,1
+477,Je divorce. Puis-je divorcer sans l'accord de mon conjoint ?,la question concerne la catégorie Justice,1
+478,Je me sépare. Que faire si j’estime que les mesures urgentes et provisoires prises par le juge de la famille sont injustes ?,la question concerne la catégorie Argent,1
+479,Quel est le rôle du tuteur d'un enfant mineur ?,la question concerne la catégorie Protection sociale,1
+480,Peut-on changer d'administrateur de biens et/ou de la personne ?,la question concerne la catégorie Argent,1
+481,"Mon propriétaire ne fait pas les réparations nécessaires, puis-je suspendre le paiement de mon loyer à Bruxelles ?",la question concerne la catégorie Protection sociale,1
+482,Que faire si le montant des frais et honoraires de l'administrateur semble exagéré ?,la question concerne la catégorie Justice,1
+483,Peut-on saisir tous mes revenus ?,la question concerne la catégorie Logement,0
+484,Mon cohabitant légal est décédé. Quels sont mes droits dans sa succession ?,la question concerne la catégorie Justice,0
+485,"J'introduis une demande en justice. J'ai fait appel du jugement, que se passe-t-il en attendant le nouveau jugement ?",la question concerne la catégorie Famille,0
+486,Qu’est-ce que la transaction pénale ?,la question concerne la catégorie Argent,0
+487,Va-t-on me ficher si je suis en règlement collectif de dettes ?,la question concerne la catégorie Travail,0
+488,Qu'est-ce qu'un crédit hypothécaire ?,la question concerne la catégorie Logement,0
+489,Je suis convoqué en justice. Que faire si mon adversaire ne respecte pas la décision de justice ?,la question concerne la catégorie Travail,0
+490,Je suis convoqué en justice. Suis-je obligé de prendre un avocat ?,la question concerne la catégorie Travail,0
+491,Que se passe-t-il si je suis saisi sur mes revenus et que j'ai d'autres créanciers ?,la question concerne la catégorie Travail,0
+492,J'ai été condamné à une peine de prison. A quelles conditions puis-je obtenir la surveillance électronique ?,la question concerne la catégorie Travail,0
+493,Après combien de temps ma facture d'eau est-elle prescrite en Wallonie ?,la question concerne la catégorie Logement,0
+494,Qui peut demander un règlement collectif de dettes (RCD) ?,la question concerne la catégorie Famille,0
+495,Que faire si je ne suis pas d'accord avec une autre décision du juge ?,la question concerne la catégorie Justice,0
+496,Suis-je couvert si mon enfant mineur commet un acte intentionnel ?,la question concerne la catégorie Protection sociale,0
+497,Comment puis-je être certain que mes proches trouveront mon testament après mon décès ?,la question concerne la catégorie Protection sociale,0
+498,"Je ne paie pas mon stationnement, vais-je recevoir une amende pénale ?",la question concerne la catégorie Protection sociale,0
+499,Quels sont les revenus pris en compte pour l'aide juridique si je vis seul ?,la question concerne la catégorie Famille,0
+500,J'ai été condamné à une peine de prison. Puis-je obtenir une libération conditionnelle ?,la question concerne la catégorie Protection sociale,0
+501,"J’ai été condamné à payer une amende pénale, quand dois-je la payer ?",la question concerne la catégorie Protection sociale,0
+502,"Je suis convoqué devant le tribunal de police, que va-t-il se passer ?",la question concerne la catégorie Travail,0
+503,"J'ai une procédure à l'étranger, que faire ?",la question concerne la catégorie Protection sociale,0
+504,Qui va faire exécuter le jugement ?,la question concerne la catégorie Logement,0
+505,Comment dois-je renoncer à une succession ?,la question concerne la catégorie Travail,0
+506,Puis-je porter plainte au parquet si je suis victime d’une infraction ?,la question concerne la catégorie Protection sociale,0
+507,Que faire si un nouveau créancier se manifeste en cours de la procédure en règlement collectif de dettes ?,la question concerne la catégorie Protection sociale,0
+508,Je suis convoqué en justice. Qu'est-ce que la requête conjointe (avant appelée comparution volontaire) ?,la question concerne la catégorie Protection sociale,0
+509,Combien dois-je payer pour introduire une procédure en justice ?,la question concerne la catégorie Travail,0
+510,Quel recours contre une décision du bureau d'aide juridique ?,la question concerne la catégorie Travail,0
+511,Le règlement collectif de dettes m'empêche-t-il de rembourser en priorité des amis ou parents qui m'ont prêté de l'argent ?,la question concerne la catégorie Famille,0
+512,Comment l'avocat calcule-t-il ses honoraires ?,la question concerne la catégorie Logement,0
+513,Quel est le rôle du médiateur de dettes ?,la question concerne la catégorie Logement,0
+514,Que se passe-t-il si mon enfant mineur cause un accident avec ma voiture ?,la question concerne la catégorie Justice,0
+515,J'introduis une demande en justice. Qu'est-ce qu'une requête ?,la question concerne la catégorie Travail,0
+516,Je suis convoqué en justice. Qu'est-ce que le calendrier d'échange de conclusions ?,la question concerne la catégorie Argent,0
+517,Je suis convoqué en justice. Qu'est-ce qu'une remise ?,la question concerne la catégorie Etrangers,0
+518,Je suis propriétaire. Dois-je installer des détecteurs incendie en Wallonie ?,la question concerne la catégorie Protection sociale,0
+519,Qu'est-ce que la saisie mobilière ?,la question concerne la catégorie Etrangers,0
+520,Je dépose plainte auprès d'un médiateur. L'entreprise est située en Belgique. Comment le médiateur pour le consommateur traite-t-il ma plainte ?,la question concerne la catégorie Logement,0
+521,Quels sont les enfants couverts par une assurance RC familiale ?,la question concerne la catégorie Famille,0
+522,J'introduis une demande en justice. Qu'est ce que je risque si je ne respecte pas la décision ?,la question concerne la catégorie Travail,0
+523,Qui doit payer le précompte immobilier ?,la question concerne la catégorie Etrangers,0
+524,Mon ami est domicilié chez moi. Peut-on saisir mes meubles ?,la question concerne la catégorie Famille,0
+525,Après combien de temps ma dette envers mon ami est-elle prescrite ?,la question concerne la catégorie Logement,0
+526,Qu'est-ce que la médiation de dettes amiable ?,la question concerne la catégorie Travail,0
+527,Mon propriétaire peut-il m'expulser si je ne paie plus mon loyer ?,la question concerne la catégorie Protection sociale,0
+528,Que se passe-t-il si je ne paie pas l’amende pénale prévue dans le jugement ?,la question concerne la catégorie Logement,0
+529,Je suis convoqué en justice. Je ne suis pas d'accord avec la décision: que faire ?,la question concerne la catégorie Etrangers,0
+530,Va-t-on prévenir mon employeur si je suis en règlement collectif de dettes ?,la question concerne la catégorie Etrangers,0
+531,Puis-je faire un nouveau crédit à la consommation pour rembourser ceux que j'ai déjà ?,la question concerne la catégorie Travail,0
+532,Peut-on m'expulser en hiver ?,la question concerne la catégorie Famille,0
+533,Est-ce que toutes les condamnations sont inscrites dans mon extrait de casier judiciaire ?,la question concerne la catégorie Logement,0
+534,Mon enfant majeur en “kot” est-il toujours couvert par mon assurance ?,la question concerne la catégorie Travail,0
+535,Je suis convoqué en justice. Comment se passe la procédure en appel ?,la question concerne la catégorie Argent,0
+536,Que faire si mes conditions de revenus varient lors du règlement collectif de dettes ?,la question concerne la catégorie Travail,0
+537,Faut-il un nombre minimum de dettes ou un montant minimum d'endettement pour pouvoir introduire un règlement collectif de dettes (RCD) ?,la question concerne la catégorie Protection sociale,0
+538,J'introduis une demande en justice. Qu'est-ce que la requête conjointe (avant appelée comparution volontaire) ?,la question concerne la catégorie Etrangers,0
+539,"Si on m'expulse, que fait-on de mes meubles ?",la question concerne la catégorie Justice,0
+540,J'introduis une demande en justice. Je ne suis pas d'accord avec la décision: que faire ?,la question concerne la catégorie Logement,0
+541,Ai-je droit à l'aide juridique (ex pro deo) si je suis mineur d'âge ?,la question concerne la catégorie Famille,0
+542,Comment se déroule la saisie immobilière ?,la question concerne la catégorie Protection sociale,0
+543,Où va mon argent pendant la phase de négociation avec les créanciers ?,la question concerne la catégorie Justice,0
+544,Que signifie un acte intentionnel dans le cadre d'une assurance familiale ?,la question concerne la catégorie Famille,0
+545,Où vais-je devoir travailler pour ma peine de travail ?,la question concerne la catégorie Protection sociale,0
+546,Que se passe-t-il si je n’effectue pas correctement ma peine de travail ?,la question concerne la catégorie Famille,0
+547,Dans quels cas puis-je être révoqué de la procédure en règlement collectif de dettes ?,la question concerne la catégorie Protection sociale,0
+548,L'avocat pro deo peut-il me réclamer des honoraires ?,la question concerne la catégorie Etrangers,0
+549,Ai-je droit à l'aide juridique (ex pro deo) si je suis handicapé ?,la question concerne la catégorie Logement,0
+550,Un ami veut me prêter de l'argent. Comment faire ?,la question concerne la catégorie Travail,0
+551,Je suis convoqué en justice. Faut-il toujours fixer un calendrier d'échange de conclusions ?,la question concerne la catégorie Argent,0
+552,Après combien de temps ma dette de crédit hypothécaire est-elle prescrite ?,la question concerne la catégorie Logement,0
+553,Puis-je donner par testament tous mes biens à ma filleule ?,la question concerne la catégorie Famille,0
+554,Après combien de temps ma dette de redevance télévision est-elle prescrite ?,la question concerne la catégorie Protection sociale,0
+555,Je suis témoin d'une infraction. Puis-je dénoncer à la police une infraction dont je suis témoin ?,la question concerne la catégorie Etrangers,0
+556,Puis-je dénoncer au parquet une infraction dont je suis témoin ?,la question concerne la catégorie Logement,0
+557,Mon conjoint vient de décéder. Quels sont mes droits dans sa succession ?,la question concerne la catégorie Logement,0
+558,"Je me suis bagarré à la fin d’une soirée, qu’est-ce que je risque ?",la question concerne la catégorie Protection sociale,0
+559,Qu'est-ce que le règlement collectif de dettes (RCD) ?,la question concerne la catégorie Famille,0
+560,Peut-on saisir mes chèques-repas ?,la question concerne la catégorie Justice,0
+561,Quel est le rôle du parquet en matière pénale ?,la question concerne la catégorie Logement,0
+562,Puis-je changer d'avocat désigné si je ne suis pas satisfait ?,la question concerne la catégorie Travail,0
+563,Puis-je choisir personnellement mon avocat ?,la question concerne la catégorie Etrangers,0
+564,Quels sont les revenus pris en considération pour l'aide juridique si je vis avec d'autres personnes ?,la question concerne la catégorie Argent,0
+565,J'introduis une demande en justice. Que se passe-t-il si mon adversaire ne vient pas à la première audience ?,la question concerne la catégorie Protection sociale,0
+566,Puis-je demander qu’on enlève certaines mentions de mon casier judiciaire ?,la question concerne la catégorie Argent,0
+567,Peut-on saisir tous mes revenus ?,la question concerne la catégorie Logement,1
+568,Mon cohabitant légal est décédé. Quels sont mes droits dans sa succession ?,la question concerne la catégorie Justice,1
+569,"J'introduis une demande en justice. J'ai fait appel du jugement, que se passe-t-il en attendant le nouveau jugement ?",la question concerne la catégorie Famille,1
+570,Qu’est-ce que la transaction pénale ?,la question concerne la catégorie Argent,1
+571,Va-t-on me ficher si je suis en règlement collectif de dettes ?,la question concerne la catégorie Travail,1
+572,Qu'est-ce qu'un crédit hypothécaire ?,la question concerne la catégorie Logement,1
+573,Je suis convoqué en justice. Que faire si mon adversaire ne respecte pas la décision de justice ?,la question concerne la catégorie Travail,1
+574,Je suis convoqué en justice. Suis-je obligé de prendre un avocat ?,la question concerne la catégorie Travail,1
+575,Que se passe-t-il si je suis saisi sur mes revenus et que j'ai d'autres créanciers ?,la question concerne la catégorie Travail,1
+576,J'ai été condamné à une peine de prison. A quelles conditions puis-je obtenir la surveillance électronique ?,la question concerne la catégorie Travail,1
+577,Après combien de temps ma facture d'eau est-elle prescrite en Wallonie ?,la question concerne la catégorie Logement,1
+578,Qui peut demander un règlement collectif de dettes (RCD) ?,la question concerne la catégorie Famille,1
+579,Que faire si je ne suis pas d'accord avec une autre décision du juge ?,la question concerne la catégorie Justice,1
+580,Suis-je couvert si mon enfant mineur commet un acte intentionnel ?,la question concerne la catégorie Protection sociale,1
+581,Comment puis-je être certain que mes proches trouveront mon testament après mon décès ?,la question concerne la catégorie Protection sociale,1
+582,"Je ne paie pas mon stationnement, vais-je recevoir une amende pénale ?",la question concerne la catégorie Protection sociale,1
+583,Quels sont les revenus pris en compte pour l'aide juridique si je vis seul ?,la question concerne la catégorie Famille,1
+584,J'ai été condamné à une peine de prison. Puis-je obtenir une libération conditionnelle ?,la question concerne la catégorie Protection sociale,1
+585,"J’ai été condamné à payer une amende pénale, quand dois-je la payer ?",la question concerne la catégorie Protection sociale,1
+586,"Je suis convoqué devant le tribunal de police, que va-t-il se passer ?",la question concerne la catégorie Travail,1
+587,"J'ai une procédure à l'étranger, que faire ?",la question concerne la catégorie Protection sociale,1
+588,Qui va faire exécuter le jugement ?,la question concerne la catégorie Logement,1
+589,Comment dois-je renoncer à une succession ?,la question concerne la catégorie Travail,1
+590,Puis-je porter plainte au parquet si je suis victime d’une infraction ?,la question concerne la catégorie Protection sociale,1
+591,Que faire si un nouveau créancier se manifeste en cours de la procédure en règlement collectif de dettes ?,la question concerne la catégorie Protection sociale,1
+592,Je suis convoqué en justice. Qu'est-ce que la requête conjointe (avant appelée comparution volontaire) ?,la question concerne la catégorie Protection sociale,1
+593,Combien dois-je payer pour introduire une procédure en justice ?,la question concerne la catégorie Travail,1
+594,Quel recours contre une décision du bureau d'aide juridique ?,la question concerne la catégorie Travail,1
+595,Le règlement collectif de dettes m'empêche-t-il de rembourser en priorité des amis ou parents qui m'ont prêté de l'argent ?,la question concerne la catégorie Famille,1
+596,Comment l'avocat calcule-t-il ses honoraires ?,la question concerne la catégorie Logement,1
+597,Quel est le rôle du médiateur de dettes ?,la question concerne la catégorie Logement,1
+598,Que se passe-t-il si mon enfant mineur cause un accident avec ma voiture ?,la question concerne la catégorie Justice,1
+599,J'introduis une demande en justice. Qu'est-ce qu'une requête ?,la question concerne la catégorie Travail,1
+600,Je suis convoqué en justice. Qu'est-ce que le calendrier d'échange de conclusions ?,la question concerne la catégorie Argent,1
+601,Je suis convoqué en justice. Qu'est-ce qu'une remise ?,la question concerne la catégorie Etrangers,1
+602,Je suis propriétaire. Dois-je installer des détecteurs incendie en Wallonie ?,la question concerne la catégorie Protection sociale,1
+603,Qu'est-ce que la saisie mobilière ?,la question concerne la catégorie Etrangers,1
+604,Je dépose plainte auprès d'un médiateur. L'entreprise est située en Belgique. Comment le médiateur pour le consommateur traite-t-il ma plainte ?,la question concerne la catégorie Logement,1
+605,Quels sont les enfants couverts par une assurance RC familiale ?,la question concerne la catégorie Famille,1
+606,J'introduis une demande en justice. Qu'est ce que je risque si je ne respecte pas la décision ?,la question concerne la catégorie Travail,1
+607,Qui doit payer le précompte immobilier ?,la question concerne la catégorie Etrangers,1
+608,Mon ami est domicilié chez moi. Peut-on saisir mes meubles ?,la question concerne la catégorie Famille,1
+609,Après combien de temps ma dette envers mon ami est-elle prescrite ?,la question concerne la catégorie Logement,1
+610,Qu'est-ce que la médiation de dettes amiable ?,la question concerne la catégorie Travail,1
+611,Mon propriétaire peut-il m'expulser si je ne paie plus mon loyer ?,la question concerne la catégorie Protection sociale,1
+612,Que se passe-t-il si je ne paie pas l’amende pénale prévue dans le jugement ?,la question concerne la catégorie Logement,1
+613,Je suis convoqué en justice. Je ne suis pas d'accord avec la décision: que faire ?,la question concerne la catégorie Etrangers,1
+614,Va-t-on prévenir mon employeur si je suis en règlement collectif de dettes ?,la question concerne la catégorie Etrangers,1
+615,Puis-je faire un nouveau crédit à la consommation pour rembourser ceux que j'ai déjà ?,la question concerne la catégorie Travail,1
+616,Peut-on m'expulser en hiver ?,la question concerne la catégorie Famille,1
+617,Est-ce que toutes les condamnations sont inscrites dans mon extrait de casier judiciaire ?,la question concerne la catégorie Logement,1
+618,Mon enfant majeur en “kot” est-il toujours couvert par mon assurance ?,la question concerne la catégorie Travail,1
+619,Je suis convoqué en justice. Comment se passe la procédure en appel ?,la question concerne la catégorie Argent,1
+620,Que faire si mes conditions de revenus varient lors du règlement collectif de dettes ?,la question concerne la catégorie Travail,1
+621,Faut-il un nombre minimum de dettes ou un montant minimum d'endettement pour pouvoir introduire un règlement collectif de dettes (RCD) ?,la question concerne la catégorie Protection sociale,1
+622,J'introduis une demande en justice. Qu'est-ce que la requête conjointe (avant appelée comparution volontaire) ?,la question concerne la catégorie Etrangers,1
+623,"Si on m'expulse, que fait-on de mes meubles ?",la question concerne la catégorie Justice,1
+624,J'introduis une demande en justice. Je ne suis pas d'accord avec la décision: que faire ?,la question concerne la catégorie Logement,1
+625,Ai-je droit à l'aide juridique (ex pro deo) si je suis mineur d'âge ?,la question concerne la catégorie Famille,1
+626,Comment se déroule la saisie immobilière ?,la question concerne la catégorie Protection sociale,1
+627,Où va mon argent pendant la phase de négociation avec les créanciers ?,la question concerne la catégorie Justice,1
+628,Que signifie un acte intentionnel dans le cadre d'une assurance familiale ?,la question concerne la catégorie Famille,1
+629,Où vais-je devoir travailler pour ma peine de travail ?,la question concerne la catégorie Protection sociale,1
+630,Que se passe-t-il si je n’effectue pas correctement ma peine de travail ?,la question concerne la catégorie Famille,1
+631,Dans quels cas puis-je être révoqué de la procédure en règlement collectif de dettes ?,la question concerne la catégorie Protection sociale,1
+632,L'avocat pro deo peut-il me réclamer des honoraires ?,la question concerne la catégorie Etrangers,1
+633,Ai-je droit à l'aide juridique (ex pro deo) si je suis handicapé ?,la question concerne la catégorie Logement,1
+634,Un ami veut me prêter de l'argent. Comment faire ?,la question concerne la catégorie Travail,1
+635,Je suis convoqué en justice. Faut-il toujours fixer un calendrier d'échange de conclusions ?,la question concerne la catégorie Argent,1
+636,Après combien de temps ma dette de crédit hypothécaire est-elle prescrite ?,la question concerne la catégorie Logement,1
+637,Puis-je donner par testament tous mes biens à ma filleule ?,la question concerne la catégorie Famille,1
+638,Après combien de temps ma dette de redevance télévision est-elle prescrite ?,la question concerne la catégorie Protection sociale,1
+639,Je suis témoin d'une infraction. Puis-je dénoncer à la police une infraction dont je suis témoin ?,la question concerne la catégorie Etrangers,1
+640,Puis-je dénoncer au parquet une infraction dont je suis témoin ?,la question concerne la catégorie Logement,1
+641,Mon conjoint vient de décéder. Quels sont mes droits dans sa succession ?,la question concerne la catégorie Logement,1
+642,"Je me suis bagarré à la fin d’une soirée, qu’est-ce que je risque ?",la question concerne la catégorie Protection sociale,1
+643,Qu'est-ce que le règlement collectif de dettes (RCD) ?,la question concerne la catégorie Famille,1
+644,Peut-on saisir mes chèques-repas ?,la question concerne la catégorie Justice,1
+645,Quel est le rôle du parquet en matière pénale ?,la question concerne la catégorie Logement,1
+646,Puis-je changer d'avocat désigné si je ne suis pas satisfait ?,la question concerne la catégorie Travail,1
+647,Puis-je choisir personnellement mon avocat ?,la question concerne la catégorie Etrangers,1
+648,Quels sont les revenus pris en considération pour l'aide juridique si je vis avec d'autres personnes ?,la question concerne la catégorie Argent,1
+649,J'introduis une demande en justice. Que se passe-t-il si mon adversaire ne vient pas à la première audience ?,la question concerne la catégorie Protection sociale,1
+650,Puis-je demander qu’on enlève certaines mentions de mon casier judiciaire ?,la question concerne la catégorie Argent,1
+651,Après combien de temps ma facture de gaz et d'électricité est-elle prescrite en Wallonie ?,la question ne concerne pas la catégorie Argent,0
+652,Dois-je payer quelque chose si j'ai droit à l'aide juridique (ex pro deo) ?,la question ne concerne pas la catégorie Justice,0
+653,Je me suis porté caution pour une personne endettée qui ne veut pas introduire de RCD. Que puis-je faire ?,la question ne concerne pas la catégorie Argent,0
+654,Les créanciers peuvent-ils s'opposer à ce que la personne nommée par le juge soit médiateur de dettes du RCD ?,la question ne concerne pas la catégorie Argent,0
+655,Que faire si je me sépare ou si je divorce lors de mon règlement collectif de dettes ?,la question ne concerne pas la catégorie Argent,0
+656,Puis-je arrêter ma guidance/gestion budgétaire ?,la question ne concerne pas la catégorie Argent,0
+657,Quelles tâches vais-je effectuer pour ma peine de travail ?,la question ne concerne pas la catégorie Justice,0
+658,Ai-je droit à l'aide juridique (ex pro deo) si je suis détenu ou interné ?,la question ne concerne pas la catégorie Justice,0
+659,"Si j'ai commis des erreurs, le juge peut-il m'accorder le règlement collectif de dettes (RCD) ?",la question ne concerne pas la catégorie Argent,0
+660,Je suis convoqué en justice. Qu'est-ce qu'une requête ?,la question ne concerne pas la catégorie Justice,0
+661,Mon enfant majeur qui vit chez moi bénéficie-t-il toujours de mon assurance ?,la question ne concerne pas la catégorie Argent,0
+662,Que se passe-t-il si je ne me présente pas à l’audience devant le tribunal de police ?,la question ne concerne pas la catégorie Justice,0
+663,Quelles sont les sanctions si j’ai cassé une voiture ?,la question ne concerne pas la catégorie Justice,0
+664,Est-ce que certaines mentions du casier judiciaire s’effacent au bout d’un certain temps ?,la question ne concerne pas la catégorie Justice,0
+665,Qu'est-ce que la saisie immobilière ?,la question ne concerne pas la catégorie Argent,0
+666,Mon propriétaire peut-il résilier mon contrat de bail si je ne paie plus mon loyer ?,la question ne concerne pas la catégorie Argent,0
+667,Ai-je droit à l'aide juridique (ex pro deo) si je suis surendetté ?,la question ne concerne pas la catégorie Justice,0
+668,Qu’est-ce que je risque si je me fais prendre à voler dans un magasin ?,la question ne concerne pas la catégorie Justice,0
+669,"Je suis témoin d'une infraction. Je suis convoqué pour une audition à la police en tant que témoin, que va-t-il se passer ?",la question ne concerne pas la catégorie Justice,0
+670,Qu'est-ce qu'un crédit à la consommation ?,la question ne concerne pas la catégorie Argent,0
+671,Que se passe-t-il si je ne paie plus la contribution alimentaire pour mes enfants ?,la question ne concerne pas la catégorie Argent,0
+672,Puis-je bénéficier de l'aide juridique (ex-pro deo) si je suis propriétaire ?,la question ne concerne pas la catégorie Justice,0
+673,Que faire si le médiateur de dettes ne répond pas à mes demandes ?,la question ne concerne pas la catégorie Argent,0
+674,J'introduis une demande en justice. Qu'est-ce qu'une citation ?,la question ne concerne pas la catégorie Justice,0
+675,Je dépose plainte auprès d'un médiateur. L'entreprise est située en Belgique. Quel faire si ma plainte n’a pas été déposée devant le bon médiateur compétent ?,la question ne concerne pas la catégorie Argent,0
+676,J'ai été condamné à une peine de prison. Qu’est-ce que la surveillance électronique ?,la question ne concerne pas la catégorie Justice,0
+677,Je suis convoqué en justice. Comment vais-je recevoir la décision de justice ?,la question ne concerne pas la catégorie Justice,0
+678,Qui le juge peut-il désigner comme médiateur de dettes ?,la question ne concerne pas la catégorie Argent,0
+679,"Je suis convoqué en justice. J'ai fait appel du jugement, que se passe-t-il en attendant le nouveau jugement ?",la question ne concerne pas la catégorie Justice,0
+680,Que se passe-t-il une fois que j’ai effectué ma peine de travail ?,la question ne concerne pas la catégorie Justice,0
+681,Que puis-je faire si je ne suis pas d’accord avec la décision du tribunal de police ?,la question ne concerne pas la catégorie Justice,0
+682,Qu'est-ce qu'une procédure sommaire d'injonction de payer ?,la question ne concerne pas la catégorie Argent,0
+683,Je suis convoqué en justice. Qu'est ce que je risque si je ne respecte pas la décision ?,la question ne concerne pas la catégorie Justice,0
+684,Je suis victime d’une infraction. Dans quels cas puis-je porter plainte à la police ?,la question ne concerne pas la catégorie Justice,0
+685,Que se passe-t-il si je ne paie pas mon crédit hypothécaire ?,la question ne concerne pas la catégorie Argent,0
+686,Que se passe-t-il si l'huissier saisit un meuble qui ne m'appartient pas ?,la question ne concerne pas la catégorie Argent,0
+687,J'introduis une demande en justice. Qu'est-ce que le calendrier d'échange de conclusions ?,la question ne concerne pas la catégorie Justice,0
+688,Comment faire connaître mes dernières volontés pour mes funérailles ?,la question ne concerne pas la catégorie Argent,0
+689,Qu’est-ce qu’un extrait de casier judiciaire (certificat de bonnes vie et moeurs) ?,la question ne concerne pas la catégorie Justice,0
+690,A quel moment dois-je payer ma dette ?,la question ne concerne pas la catégorie Argent,0
+691,"Mon enfant mineur, en internat dans une école, est-il toujours couvert par mon assurance ?",la question ne concerne pas la catégorie Argent,0
+692,Combien de temps après le dépôt de ma requête en règlement collectif de dettes vais-je avoir la réponse du juge ?,la question ne concerne pas la catégorie Argent,0
+693,Puis-je invoquer la prescription pour ne pas payer ma dette ?,la question ne concerne pas la catégorie Argent,0
+694,Quel est le coût de l'huissier de justice ?,la question ne concerne pas la catégorie Argent,0
+695,"Que se passe-t-il si je travaille à temps plein, ou si je suis en incapacité de travail, ou si je suis en surveillance électronique ?",la question ne concerne pas la catégorie Justice,0
+696,Comment trouver les adresses et les horaires des bureaux d'aide juridique ?,la question ne concerne pas la catégorie Justice,0
+697,"Si je ne paie pas mon crédit à la consommation, peut-on saisir mes revenus ?",la question ne concerne pas la catégorie Argent,0
+698,Peut-on me demander de réparer les dégâts matériels causés par la bagarre ?,la question ne concerne pas la catégorie Justice,0
+699,Je suis locataire. Dois-je prendre une assurance incendie si je suis locataire à Bruxelles ?,la question ne concerne pas la catégorie Argent,0
+700,Quelles démarches effectuer si je cause des dommages ?,la question ne concerne pas la catégorie Argent,0
+701,Que faire si je ne m'entends pas avec le médiateur de dettes ?,la question ne concerne pas la catégorie Argent,0
+702,Puis-je demander au juge des facilités de paiement ?,la question ne concerne pas la catégorie Argent,0
+703,Je suis locataire. Dois-je installer des détecteurs incendie à Bruxelles ?,la question ne concerne pas la catégorie Argent,0
+704,Quels recours exercer contre les abus lors d'un recouvrement amiable ?,la question ne concerne pas la catégorie Argent,0
+705,Je suis convoqué en justice. Dois-je aller en personne aux audiences ?,la question ne concerne pas la catégorie Justice,0
+706,Je suis victime d’une infraction. La police est-elle obligée de donner suite à ma plainte ?,la question ne concerne pas la catégorie Justice,0
+707,Je dépose plainte auprès d'un médiateur. L'entreprise est située en Belgique. Dans combien de temps le médiateur pour le consommateur me répondra ?,la question ne concerne pas la catégorie Argent,0
+708,Je dépose plainte auprès d'un médiateur. L'entreprise est située en Belgique. A quelles conditions puis-je déposer plainte devant le médiateur pour le consommateur ?,la question ne concerne pas la catégorie Argent,0
+709,"Si je ne rembourse pas mon crédit hypothécaire, suis-je fiché à la Banque nationale ?",la question ne concerne pas la catégorie Argent,0
+710,Mon ami peut-il me poursuivre en justice si je ne le rembourse pas ?,la question ne concerne pas la catégorie Argent,0
+711,L'avocat pro deo peut-il me réclamer des honoraires ?,la question ne concerne pas la catégorie Justice,0
+712,Suis-je obligé de me présenter à l’audience devant le tribunal de police ?,la question ne concerne pas la catégorie Justice,0
+713,Puis-je me présenter seul ou dois-je être accompagné d’un avocat devant le tribunal de police ?,la question ne concerne pas la catégorie Justice,0
+714,Qu'est-ce qu'une saisie ?,la question ne concerne pas la catégorie Argent,0
+715,Qu’est-ce que je risque si je menace un passant pour qu’il me donne son portefeuille et son gsm ?,la question ne concerne pas la catégorie Justice,0
+716,Y a-t-il des frais en cours de procédure ?,la question ne concerne pas la catégorie Justice,0
+717,Ai-je droit à l'aide juridique (ex pro deo) si je reçois une aide du CPAS ?,la question ne concerne pas la catégorie Justice,0
+718,Le père de mes enfants vient de décéder et ils sont mineurs. Que dois-je faire ?,la question ne concerne pas la catégorie Argent,0
+719,Après combien de temps ma dette de crédit à la consommation est-elle prescrite ?,la question ne concerne pas la catégorie Argent,0
+720,Ai-je droit à l'aide juridique (ex pro deo) si je suis étranger ?,la question ne concerne pas la catégorie Justice,0
+721,Quel est le coût de l'huissier de justice ?,la question ne concerne pas la catégorie Justice,0
+722,Quels sont les revenus pris en compte pour l'aide juridique si je vis avec mes enfants ?,la question ne concerne pas la catégorie Justice,0
+723,Je suis propriétaire. Mon locataire n'a pas payé sa facture d'eau. Qu'est-ce que je risque en Wallonie ?,la question ne concerne pas la catégorie Argent,0
+724,J'ai commis une infraction. Puis-je me faire assister par mon avocat pour l’audition à la police ?,la question ne concerne pas la catégorie Justice,0
+725,Je suis propriétaire. Dois-je installer des détecteurs incendie en Wallonie ?,la question ne concerne pas la catégorie Argent,0
+726,Puis-je faire une donation de tous mes biens à ma filleule ?,la question ne concerne pas la catégorie Argent,0
+727,Qu’est-ce que la médiation pénale ?,la question ne concerne pas la catégorie Justice,0
+728,Le juge peut-il m'accorder un délai de paiement si je ne rembourse pas l'argent prêté ?,la question ne concerne pas la catégorie Argent,0
+729,"Si je ne paie plus mon crédit à la consommation, suis-je fiché à la Banque nationale ?",la question ne concerne pas la catégorie Argent,0
+730,Je suis témoin d'une infraction. Qu’est-ce que je risque si je ne dis pas la vérité à mon audition à la police en tant que témoin ?,la question ne concerne pas la catégorie Justice,0
+731,Peut-on saisir tous mes revenus si je ne paie pas ma contribution alimentaire ?,la question ne concerne pas la catégorie Argent,0
+732,Que fait le médiateur de dettes lorsqu'il a été désigné ?,la question ne concerne pas la catégorie Argent,0
+733,Que puis-je faire si je ne suis pas d'accord avec le plan ?,la question ne concerne pas la catégorie Argent,0
+734,J'introduis une demande en justice. Comment se passe la procédure en appel ?,la question ne concerne pas la catégorie Justice,0
+735,Après combien de temps ma facture de gaz et d'électricité est-elle prescrite en Wallonie ?,la question ne concerne pas la catégorie Argent,2
+736,Dois-je payer quelque chose si j'ai droit à l'aide juridique (ex pro deo) ?,la question ne concerne pas la catégorie Justice,2
+737,Je me suis porté caution pour une personne endettée qui ne veut pas introduire de RCD. Que puis-je faire ?,la question ne concerne pas la catégorie Argent,2
+738,Les créanciers peuvent-ils s'opposer à ce que la personne nommée par le juge soit médiateur de dettes du RCD ?,la question ne concerne pas la catégorie Argent,2
+739,Que faire si je me sépare ou si je divorce lors de mon règlement collectif de dettes ?,la question ne concerne pas la catégorie Argent,2
+740,Puis-je arrêter ma guidance/gestion budgétaire ?,la question ne concerne pas la catégorie Argent,2
+741,Quelles tâches vais-je effectuer pour ma peine de travail ?,la question ne concerne pas la catégorie Justice,2
+742,Ai-je droit à l'aide juridique (ex pro deo) si je suis détenu ou interné ?,la question ne concerne pas la catégorie Justice,2
+743,"Si j'ai commis des erreurs, le juge peut-il m'accorder le règlement collectif de dettes (RCD) ?",la question ne concerne pas la catégorie Argent,2
+744,Je suis convoqué en justice. Qu'est-ce qu'une requête ?,la question ne concerne pas la catégorie Justice,2
+745,Mon enfant majeur qui vit chez moi bénéficie-t-il toujours de mon assurance ?,la question ne concerne pas la catégorie Argent,2
+746,Que se passe-t-il si je ne me présente pas à l’audience devant le tribunal de police ?,la question ne concerne pas la catégorie Justice,2
+747,Quelles sont les sanctions si j’ai cassé une voiture ?,la question ne concerne pas la catégorie Justice,2
+748,Est-ce que certaines mentions du casier judiciaire s’effacent au bout d’un certain temps ?,la question ne concerne pas la catégorie Justice,2
+749,Qu'est-ce que la saisie immobilière ?,la question ne concerne pas la catégorie Argent,2
+750,Mon propriétaire peut-il résilier mon contrat de bail si je ne paie plus mon loyer ?,la question ne concerne pas la catégorie Argent,2
+751,Ai-je droit à l'aide juridique (ex pro deo) si je suis surendetté ?,la question ne concerne pas la catégorie Justice,2
+752,Qu’est-ce que je risque si je me fais prendre à voler dans un magasin ?,la question ne concerne pas la catégorie Justice,2
+753,"Je suis témoin d'une infraction. Je suis convoqué pour une audition à la police en tant que témoin, que va-t-il se passer ?",la question ne concerne pas la catégorie Justice,2
+754,Qu'est-ce qu'un crédit à la consommation ?,la question ne concerne pas la catégorie Argent,2
+755,Que se passe-t-il si je ne paie plus la contribution alimentaire pour mes enfants ?,la question ne concerne pas la catégorie Argent,2
+756,Puis-je bénéficier de l'aide juridique (ex-pro deo) si je suis propriétaire ?,la question ne concerne pas la catégorie Justice,2
+757,Que faire si le médiateur de dettes ne répond pas à mes demandes ?,la question ne concerne pas la catégorie Argent,2
+758,J'introduis une demande en justice. Qu'est-ce qu'une citation ?,la question ne concerne pas la catégorie Justice,2
+759,Je dépose plainte auprès d'un médiateur. L'entreprise est située en Belgique. Quel faire si ma plainte n’a pas été déposée devant le bon médiateur compétent ?,la question ne concerne pas la catégorie Argent,2
+760,J'ai été condamné à une peine de prison. Qu’est-ce que la surveillance électronique ?,la question ne concerne pas la catégorie Justice,2
+761,Je suis convoqué en justice. Comment vais-je recevoir la décision de justice ?,la question ne concerne pas la catégorie Justice,2
+762,Qui le juge peut-il désigner comme médiateur de dettes ?,la question ne concerne pas la catégorie Argent,2
+763,"Je suis convoqué en justice. J'ai fait appel du jugement, que se passe-t-il en attendant le nouveau jugement ?",la question ne concerne pas la catégorie Justice,2
+764,Que se passe-t-il une fois que j’ai effectué ma peine de travail ?,la question ne concerne pas la catégorie Justice,2
+765,Que puis-je faire si je ne suis pas d’accord avec la décision du tribunal de police ?,la question ne concerne pas la catégorie Justice,2
+766,Qu'est-ce qu'une procédure sommaire d'injonction de payer ?,la question ne concerne pas la catégorie Argent,2
+767,Je suis convoqué en justice. Qu'est ce que je risque si je ne respecte pas la décision ?,la question ne concerne pas la catégorie Justice,2
+768,Je suis victime d’une infraction. Dans quels cas puis-je porter plainte à la police ?,la question ne concerne pas la catégorie Justice,2
+769,Que se passe-t-il si je ne paie pas mon crédit hypothécaire ?,la question ne concerne pas la catégorie Argent,2
+770,Que se passe-t-il si l'huissier saisit un meuble qui ne m'appartient pas ?,la question ne concerne pas la catégorie Argent,2
+771,J'introduis une demande en justice. Qu'est-ce que le calendrier d'échange de conclusions ?,la question ne concerne pas la catégorie Justice,2
+772,Comment faire connaître mes dernières volontés pour mes funérailles ?,la question ne concerne pas la catégorie Argent,2
+773,Qu’est-ce qu’un extrait de casier judiciaire (certificat de bonnes vie et moeurs) ?,la question ne concerne pas la catégorie Justice,2
+774,A quel moment dois-je payer ma dette ?,la question ne concerne pas la catégorie Argent,2
+775,"Mon enfant mineur, en internat dans une école, est-il toujours couvert par mon assurance ?",la question ne concerne pas la catégorie Argent,2
+776,Combien de temps après le dépôt de ma requête en règlement collectif de dettes vais-je avoir la réponse du juge ?,la question ne concerne pas la catégorie Argent,2
+777,Puis-je invoquer la prescription pour ne pas payer ma dette ?,la question ne concerne pas la catégorie Argent,2
+778,Quel est le coût de l'huissier de justice ?,la question ne concerne pas la catégorie Argent,2
+779,"Que se passe-t-il si je travaille à temps plein, ou si je suis en incapacité de travail, ou si je suis en surveillance électronique ?",la question ne concerne pas la catégorie Justice,2
+780,Comment trouver les adresses et les horaires des bureaux d'aide juridique ?,la question ne concerne pas la catégorie Justice,2
+781,"Si je ne paie pas mon crédit à la consommation, peut-on saisir mes revenus ?",la question ne concerne pas la catégorie Argent,2
+782,Peut-on me demander de réparer les dégâts matériels causés par la bagarre ?,la question ne concerne pas la catégorie Justice,2
+783,Je suis locataire. Dois-je prendre une assurance incendie si je suis locataire à Bruxelles ?,la question ne concerne pas la catégorie Argent,2
+784,Quelles démarches effectuer si je cause des dommages ?,la question ne concerne pas la catégorie Argent,2
+785,Que faire si je ne m'entends pas avec le médiateur de dettes ?,la question ne concerne pas la catégorie Argent,2
+786,Puis-je demander au juge des facilités de paiement ?,la question ne concerne pas la catégorie Argent,2
+787,Je suis locataire. Dois-je installer des détecteurs incendie à Bruxelles ?,la question ne concerne pas la catégorie Argent,2
+788,Quels recours exercer contre les abus lors d'un recouvrement amiable ?,la question ne concerne pas la catégorie Argent,2
+789,Je suis convoqué en justice. Dois-je aller en personne aux audiences ?,la question ne concerne pas la catégorie Justice,2
+790,Je suis victime d’une infraction. La police est-elle obligée de donner suite à ma plainte ?,la question ne concerne pas la catégorie Justice,2
+791,Je dépose plainte auprès d'un médiateur. L'entreprise est située en Belgique. Dans combien de temps le médiateur pour le consommateur me répondra ?,la question ne concerne pas la catégorie Argent,2
+792,Je dépose plainte auprès d'un médiateur. L'entreprise est située en Belgique. A quelles conditions puis-je déposer plainte devant le médiateur pour le consommateur ?,la question ne concerne pas la catégorie Argent,2
+793,"Si je ne rembourse pas mon crédit hypothécaire, suis-je fiché à la Banque nationale ?",la question ne concerne pas la catégorie Argent,2
+794,Mon ami peut-il me poursuivre en justice si je ne le rembourse pas ?,la question ne concerne pas la catégorie Argent,2
+795,L'avocat pro deo peut-il me réclamer des honoraires ?,la question ne concerne pas la catégorie Justice,2
+796,Suis-je obligé de me présenter à l’audience devant le tribunal de police ?,la question ne concerne pas la catégorie Justice,2
+797,Puis-je me présenter seul ou dois-je être accompagné d’un avocat devant le tribunal de police ?,la question ne concerne pas la catégorie Justice,2
+798,Qu'est-ce qu'une saisie ?,la question ne concerne pas la catégorie Argent,2
+799,Qu’est-ce que je risque si je menace un passant pour qu’il me donne son portefeuille et son gsm ?,la question ne concerne pas la catégorie Justice,2
+800,Y a-t-il des frais en cours de procédure ?,la question ne concerne pas la catégorie Justice,2
+801,Ai-je droit à l'aide juridique (ex pro deo) si je reçois une aide du CPAS ?,la question ne concerne pas la catégorie Justice,2
+802,Le père de mes enfants vient de décéder et ils sont mineurs. Que dois-je faire ?,la question ne concerne pas la catégorie Argent,2
+803,Après combien de temps ma dette de crédit à la consommation est-elle prescrite ?,la question ne concerne pas la catégorie Argent,2
+804,Ai-je droit à l'aide juridique (ex pro deo) si je suis étranger ?,la question ne concerne pas la catégorie Justice,2
+805,Quel est le coût de l'huissier de justice ?,la question ne concerne pas la catégorie Justice,2
+806,Quels sont les revenus pris en compte pour l'aide juridique si je vis avec mes enfants ?,la question ne concerne pas la catégorie Justice,2
+807,Je suis propriétaire. Mon locataire n'a pas payé sa facture d'eau. Qu'est-ce que je risque en Wallonie ?,la question ne concerne pas la catégorie Argent,2
+808,J'ai commis une infraction. Puis-je me faire assister par mon avocat pour l’audition à la police ?,la question ne concerne pas la catégorie Justice,2
+809,Je suis propriétaire. Dois-je installer des détecteurs incendie en Wallonie ?,la question ne concerne pas la catégorie Argent,2
+810,Puis-je faire une donation de tous mes biens à ma filleule ?,la question ne concerne pas la catégorie Argent,2
+811,Qu’est-ce que la médiation pénale ?,la question ne concerne pas la catégorie Justice,2
+812,Le juge peut-il m'accorder un délai de paiement si je ne rembourse pas l'argent prêté ?,la question ne concerne pas la catégorie Argent,2
+813,"Si je ne paie plus mon crédit à la consommation, suis-je fiché à la Banque nationale ?",la question ne concerne pas la catégorie Argent,2
+814,Je suis témoin d'une infraction. Qu’est-ce que je risque si je ne dis pas la vérité à mon audition à la police en tant que témoin ?,la question ne concerne pas la catégorie Justice,2
+815,Peut-on saisir tous mes revenus si je ne paie pas ma contribution alimentaire ?,la question ne concerne pas la catégorie Argent,2
+816,Que fait le médiateur de dettes lorsqu'il a été désigné ?,la question ne concerne pas la catégorie Argent,2
+817,Que puis-je faire si je ne suis pas d'accord avec le plan ?,la question ne concerne pas la catégorie Argent,2
+818,J'introduis une demande en justice. Comment se passe la procédure en appel ?,la question ne concerne pas la catégorie Justice,2
+819,Où trouver un médiateur de dettes amiable ?,la question ne concerne pas la catégorie Argent,1
+820,J'ai été condamné à une peine de prison. Que se passe-t-il une fois que la surveillance électronique a été octroyée ?,la question ne concerne pas la catégorie Justice,1
+821,Qui doit payer les frais funéraires ?,la question ne concerne pas la catégorie Argent,1
+822,Qui décide de ma sanction si je me fais prendre avec du cannabis sur moi ?,la question ne concerne pas la catégorie Justice,1
+823,"Mon conjoint est décédé, je dois payer le loyer mais le compte est bloqué. Que faire ?",la question ne concerne pas la catégorie Argent,1
+824,Qu’est-ce que je risque si je me fais prendre à voler un i-pod dans la poche d’un passant ?,la question ne concerne pas la catégorie Justice,1
+825,Qui organise et paie les funérailles lorsqu’il n’y a pas d’héritier ?,la question ne concerne pas la catégorie Argent,1
+826,Comment demander un règlement collectif de dettes (RCD) et à qui s'adresser ?,la question ne concerne pas la catégorie Argent,1
+827,Quel est le rôle de la police en ce qui concerne les infractions ?,la question ne concerne pas la catégorie Justice,1
+828,J'introduis une demande en justice. Combien dois-je payer pour introduire une procédure en justice ?,la question ne concerne pas la catégorie Justice,1
+829,"Mon ami a son adresse de référence chez moi, peut-on saisir mes meubles ?",la question ne concerne pas la catégorie Argent,1
+830,Après combien de temps ma facture d'eau est-elle prescrite à Bruxelles ?,la question ne concerne pas la catégorie Argent,1
+831,Nous sommes séparés mais pas divorcés. Mon conjoint va-t-il hériter de mes biens à mon décès ?,la question ne concerne pas la catégorie Argent,1
+832,J’hésite à faire un testament ou une donation. Que choisir ?,la question ne concerne pas la catégorie Argent,1
+833,Puis-je avoir un premier conseil juridique gratuit (aide juridique de 1ère ligne) ?,la question ne concerne pas la catégorie Justice,1
+834,"Si je ne paie pas mon crédit à la consommation, peut-on reprendre ma voiture ?",la question ne concerne pas la catégorie Argent,1
+835,"Je suis en règlement collectif de dettes, que faire si j'hérite ?",la question ne concerne pas la catégorie Argent,1
+836,Où demander mon extrait de casier judiciaire ?,la question ne concerne pas la catégorie Justice,1
+837,Quel est le rôle du juge des saisies ?,la question ne concerne pas la catégorie Argent,1
+838,Je suis victime d’une infraction. Comment puis-je demander réparation du dommage que j’ai subi en tant que victime d'une infraction ?,la question ne concerne pas la catégorie Justice,1
+839,Puis-je avoir l'assistance gratuite d'un avocat (aide juridique de 2ème ligne - ex pro deo) ?,la question ne concerne pas la catégorie Justice,1
+840,Quels sont les risques si je ne paie pas mon stationnement ?,la question ne concerne pas la catégorie Argent,1
+841,La police peut-elle venir fouiller chez moi si elle me soupçonne d’avoir du cannabis ?,la question ne concerne pas la catégorie Justice,1
+842,Qu’est-ce que je risque si je cause un incendie ?,la question ne concerne pas la catégorie Justice,1
+843,Le parquet est-il obligé de donner suite à ma plainte ?,la question ne concerne pas la catégorie Justice,1
+844,J'ai commis une infraction. Suis-je obligé de dénoncer mes complices à la police ?,la question ne concerne pas la catégorie Justice,1
+845,J'introduis une demande en justice. A qui m'adresser pour avoir certains renseignements sur la procédure en justice ?,la question ne concerne pas la catégorie Justice,1
+846,Quel est le coût d'une procédure en règlement collectif de dettes (RCD) ?,la question ne concerne pas la catégorie Argent,1
+847,Je suis locataire. Que couvre mon assurance incendie ?,la question ne concerne pas la catégorie Argent,1
+848,Dois-je payer quelque chose si j'ai droit à l'aide juridique (ex pro deo) ?,la question ne concerne pas la catégorie Justice,1
+849,Puis-je arrêter ma guidance/gestion budgétaire ?,la question ne concerne pas la catégorie Argent,1
+850,A qui m’adresser en cas de problème lors de l’exécution de la peine de travail ?,la question ne concerne pas la catégorie Justice,1
+851,"J'ai commis une infraction. Je suis convoqué pour une audition à la police, que va-t-il se passer ?",la question ne concerne pas la catégorie Justice,1
+852,Que doivent faire les créanciers lors du règlement collectif de dettes ?,la question ne concerne pas la catégorie Argent,1
+853,Je dépose plainte auprès d'un médiateur. L'entreprise est située en Belgique. Dois-je payer pour déposer plainte devant le médiateur pour le consommateur ?,la question ne concerne pas la catégorie Argent,1
+854,Combien de temps après le dépôt de ma requête en règlement collectif de dettes vais-je avoir la réponse du juge ?,la question ne concerne pas la catégorie Argent,1
+855,Je suis convoqué en justice. Puis-je prendre contact directement avec le juge ?,la question ne concerne pas la catégorie Justice,1
+856,"J'ai un administrateur de biens, puis-je faire une donation ?",la question ne concerne pas la catégorie Argent,1
+857,Je suis locataire. Dois-je installer des détecteurs incendie en Wallonie ?,la question ne concerne pas la catégorie Argent,1
+858,Ai-je droit à l'aide juridique (ex pro deo) si je suis surendetté ?,la question ne concerne pas la catégorie Argent,1
+859,Auprès de quel juge mon créancier peut-il me faire condamner au paiement de ma dette ?,la question ne concerne pas la catégorie Argent,1
+860,Ma situation financière s'est améliorée. Ai-je toujours droit à l'aide juridique ?,la question ne concerne pas la catégorie Justice,1
+861,Ai-je toujours droit à l'aide juridique si ma situation financière s'améliore en cours de procédure ?,la question ne concerne pas la catégorie Justice,1
+862,Que faire en cas de dépenses exceptionnelles lors du règlement collectif de dettes ?,la question ne concerne pas la catégorie Argent,1
+863,Quels frais l'hôpital peut-il ajouter à ma facture pour le retard de paiement ?,la question ne concerne pas la catégorie Argent,1
+864,Mon père vient de décéder. Dois-je payer ses dettes ?,la question ne concerne pas la catégorie Argent,1
+865,"Je suis convoqué en justice. J'ai reçu un jugement par défaut, que faire ?",la question ne concerne pas la catégorie Justice,1
+866,Je suis convoqué en justice. Le juge tranche-t-il le conflit dès la première audience ?,la question ne concerne pas la catégorie Justice,1
+867,Mes difficultés financières sont-elles passagères ou récurrentes ?,la question ne concerne pas la catégorie Argent,1
+868,Peut-on saisir ou confisquer la voiture de mes parents que j’utilise pour un trafic de cannabis ?,la question ne concerne pas la catégorie Justice,1
+869,Après combien de temps ma facture de gaz et d'électricité est-elle prescrite à Bruxelles ?,la question ne concerne pas la catégorie Argent,1
+870,Puis-je introduire un nouveau règlement collectif de dettes lorsque j'ai été révoqué ?,la question ne concerne pas la catégorie Argent,1
+871,Qui surveille l’exécution de ma peine de travail ?,la question ne concerne pas la catégorie Justice,1
+872,Puis-je porter plainte si je suis blessé au cours d’une bagarre ?,la question ne concerne pas la catégorie Justice,1
+873,Je dépose plainte auprès d'un médiateur. L'entreprise est située en Belgique. Dans quels cas puis-je déposer plainte devant le médiateur pour le consommateur ?,la question ne concerne pas la catégorie Argent,1
+874,Je suis témoin d'une infraction. Suis-je obligé de dénoncer/révéler à la police ce dont je suis témoin ?,la question ne concerne pas la catégorie Justice,1
+875,Le juge de police va-t-il décider de ma culpabilité et des sanctions à la première audience ?,la question ne concerne pas la catégorie Justice,1
+876,J'introduis une demande en justice. Qu'est-ce qu'une remise ?,la question ne concerne pas la catégorie Justice,1
+877,"Qu'est-ce qui est remboursé en priorité: le principal, les intérêts ou les frais ?",la question ne concerne pas la catégorie Argent,1
+878,J'introduis une demande en justice. Que faire si mon adversaire ne respecte pas la décision de justice ?,la question ne concerne pas la catégorie Justice,1
+879,Comment calcule-t-on le montant saisissable si je perçois plusieurs types de revenus ?,la question ne concerne pas la catégorie Argent,1
+880,J'ai été condamné à une peine de prison. Puis-je être entendu pour expliquer mon plan de réinsertion sociale ?,la question ne concerne pas la catégorie Justice,1
+881,Le règlement collectif de dettes arrête-t-il les saisies sur mes meubles ou mon salaire ?,la question ne concerne pas la catégorie Argent,1
+882,Le règlement collectif de dettes arrête-t-il une mesure d'expulsion ?,la question ne concerne pas la catégorie Argent,1
+883,"Je suis indépendant, puis-je introduire un règlement collectif de dettes (RCD) ?",la question ne concerne pas la catégorie Argent,1
+884,Mon partenaire est décédé. Quels sont mes droits dans sa succession ?,la question ne concerne pas la catégorie Argent,1
+885,Puis-je changer d'avocat désigné si je ne suis pas satisfait ?,la question ne concerne pas la catégorie Justice,1
+886,J'ai commis une infraction. Suis-je obligé de me dénoncer ou de reconnaître ma culpabilité à la police ?,la question ne concerne pas la catégorie Justice,1
+887,Qui doit payer les frais de dernière maladie ?,la question ne concerne pas la catégorie Argent,1
+888,Après combien de temps ma dette de contribution alimentaire est-elle prescrite ?,la question ne concerne pas la catégorie Argent,1
+889,Après combien de temps ma facture de gaz et d'électricité est-elle prescrite à Bruxelles ?,la question ne concerne pas la catégorie Argent,1
+890,"J'ai une procédure en néerlandais, que faire ?",la question ne concerne pas la catégorie Justice,1
+891,Tous mes biens peuvent-ils être saisis ?,la question ne concerne pas la catégorie Argent,1
+892,Comment faire une donation ?,la question ne concerne pas la catégorie Argent,1
+893,Quelle procédure en cas de défaut de paiement de ma facture d'eau en Wallonie ?,la question ne concerne pas la catégorie Argent,1
+894,J'introduis une demande en justice. Comment vais-je recevoir la décision de justice ?,la question ne concerne pas la catégorie Justice,1
+895,Mon assurance couvre-t-elle mon enfant qui ne vit jamais chez moi ?,la question ne concerne pas la catégorie Argent,1
+896,Peut-on me retirer mes allocations familiales ?,la question ne concerne pas la catégorie Justice,1
+897,Comment débloquer les comptes bancaires après un décès ?,la question ne concerne pas la catégorie Argent,1
+898,Après combien de temps ma dette de stationnement est-elle prescrite ?,la question ne concerne pas la catégorie Argent,1
+899,Quels documents dois-je remettre au bureau d'aide juridique ?,la question ne concerne pas la catégorie Justice,1
+900,Quel est le coût d'un divorce en général ?,la question ne concerne pas la catégorie Justice,1
+901,"Si je ne rembourse pas mon crédit hypothécaire, peut-on faire vendre ma maison ?",la question ne concerne pas la catégorie Argent,1
+902,Où trouver un médiateur de dettes amiable ?,la question ne concerne pas la catégorie Argent,2
+903,J'ai été condamné à une peine de prison. Que se passe-t-il une fois que la surveillance électronique a été octroyée ?,la question ne concerne pas la catégorie Justice,2
+904,Qui doit payer les frais funéraires ?,la question ne concerne pas la catégorie Argent,2
+905,Qui décide de ma sanction si je me fais prendre avec du cannabis sur moi ?,la question ne concerne pas la catégorie Justice,2
+906,"Mon conjoint est décédé, je dois payer le loyer mais le compte est bloqué. Que faire ?",la question ne concerne pas la catégorie Argent,2
+907,Qu’est-ce que je risque si je me fais prendre à voler un i-pod dans la poche d’un passant ?,la question ne concerne pas la catégorie Justice,2
+908,Qui organise et paie les funérailles lorsqu’il n’y a pas d’héritier ?,la question ne concerne pas la catégorie Argent,2
+909,Comment demander un règlement collectif de dettes (RCD) et à qui s'adresser ?,la question ne concerne pas la catégorie Argent,2
+910,Quel est le rôle de la police en ce qui concerne les infractions ?,la question ne concerne pas la catégorie Justice,2
+911,J'introduis une demande en justice. Combien dois-je payer pour introduire une procédure en justice ?,la question ne concerne pas la catégorie Justice,2
+912,"Mon ami a son adresse de référence chez moi, peut-on saisir mes meubles ?",la question ne concerne pas la catégorie Argent,2
+913,Après combien de temps ma facture d'eau est-elle prescrite à Bruxelles ?,la question ne concerne pas la catégorie Argent,2
+914,Nous sommes séparés mais pas divorcés. Mon conjoint va-t-il hériter de mes biens à mon décès ?,la question ne concerne pas la catégorie Argent,2
+915,J’hésite à faire un testament ou une donation. Que choisir ?,la question ne concerne pas la catégorie Argent,2
+916,Puis-je avoir un premier conseil juridique gratuit (aide juridique de 1ère ligne) ?,la question ne concerne pas la catégorie Justice,2
+917,"Si je ne paie pas mon crédit à la consommation, peut-on reprendre ma voiture ?",la question ne concerne pas la catégorie Argent,2
+918,"Je suis en règlement collectif de dettes, que faire si j'hérite ?",la question ne concerne pas la catégorie Argent,2
+919,Où demander mon extrait de casier judiciaire ?,la question ne concerne pas la catégorie Justice,2
+920,Quel est le rôle du juge des saisies ?,la question ne concerne pas la catégorie Argent,2
+921,Je suis victime d’une infraction. Comment puis-je demander réparation du dommage que j’ai subi en tant que victime d'une infraction ?,la question ne concerne pas la catégorie Justice,2
+922,Puis-je avoir l'assistance gratuite d'un avocat (aide juridique de 2ème ligne - ex pro deo) ?,la question ne concerne pas la catégorie Justice,2
+923,Quels sont les risques si je ne paie pas mon stationnement ?,la question ne concerne pas la catégorie Argent,2
+924,La police peut-elle venir fouiller chez moi si elle me soupçonne d’avoir du cannabis ?,la question ne concerne pas la catégorie Justice,2
+925,Qu’est-ce que je risque si je cause un incendie ?,la question ne concerne pas la catégorie Justice,2
+926,Le parquet est-il obligé de donner suite à ma plainte ?,la question ne concerne pas la catégorie Justice,2
+927,J'ai commis une infraction. Suis-je obligé de dénoncer mes complices à la police ?,la question ne concerne pas la catégorie Justice,2
+928,J'introduis une demande en justice. A qui m'adresser pour avoir certains renseignements sur la procédure en justice ?,la question ne concerne pas la catégorie Justice,2
+929,Quel est le coût d'une procédure en règlement collectif de dettes (RCD) ?,la question ne concerne pas la catégorie Argent,2
+930,Je suis locataire. Que couvre mon assurance incendie ?,la question ne concerne pas la catégorie Argent,2
+931,Dois-je payer quelque chose si j'ai droit à l'aide juridique (ex pro deo) ?,la question ne concerne pas la catégorie Justice,2
+932,Puis-je arrêter ma guidance/gestion budgétaire ?,la question ne concerne pas la catégorie Argent,2
+933,A qui m’adresser en cas de problème lors de l’exécution de la peine de travail ?,la question ne concerne pas la catégorie Justice,2
+934,"J'ai commis une infraction. Je suis convoqué pour une audition à la police, que va-t-il se passer ?",la question ne concerne pas la catégorie Justice,2
+935,Que doivent faire les créanciers lors du règlement collectif de dettes ?,la question ne concerne pas la catégorie Argent,2
+936,Je dépose plainte auprès d'un médiateur. L'entreprise est située en Belgique. Dois-je payer pour déposer plainte devant le médiateur pour le consommateur ?,la question ne concerne pas la catégorie Argent,2
+937,Combien de temps après le dépôt de ma requête en règlement collectif de dettes vais-je avoir la réponse du juge ?,la question ne concerne pas la catégorie Argent,2
+938,Je suis convoqué en justice. Puis-je prendre contact directement avec le juge ?,la question ne concerne pas la catégorie Justice,2
+939,"J'ai un administrateur de biens, puis-je faire une donation ?",la question ne concerne pas la catégorie Argent,2
+940,Je suis locataire. Dois-je installer des détecteurs incendie en Wallonie ?,la question ne concerne pas la catégorie Argent,2
+941,Ai-je droit à l'aide juridique (ex pro deo) si je suis surendetté ?,la question ne concerne pas la catégorie Argent,2
+942,Auprès de quel juge mon créancier peut-il me faire condamner au paiement de ma dette ?,la question ne concerne pas la catégorie Argent,2
+943,Ma situation financière s'est améliorée. Ai-je toujours droit à l'aide juridique ?,la question ne concerne pas la catégorie Justice,2
+944,Ai-je toujours droit à l'aide juridique si ma situation financière s'améliore en cours de procédure ?,la question ne concerne pas la catégorie Justice,2
+945,Que faire en cas de dépenses exceptionnelles lors du règlement collectif de dettes ?,la question ne concerne pas la catégorie Argent,2
+946,Quels frais l'hôpital peut-il ajouter à ma facture pour le retard de paiement ?,la question ne concerne pas la catégorie Argent,2
+947,Mon père vient de décéder. Dois-je payer ses dettes ?,la question ne concerne pas la catégorie Argent,2
+948,"Je suis convoqué en justice. J'ai reçu un jugement par défaut, que faire ?",la question ne concerne pas la catégorie Justice,2
+949,Je suis convoqué en justice. Le juge tranche-t-il le conflit dès la première audience ?,la question ne concerne pas la catégorie Justice,2
+950,Mes difficultés financières sont-elles passagères ou récurrentes ?,la question ne concerne pas la catégorie Argent,2
+951,Peut-on saisir ou confisquer la voiture de mes parents que j’utilise pour un trafic de cannabis ?,la question ne concerne pas la catégorie Justice,2
+952,Après combien de temps ma facture de gaz et d'électricité est-elle prescrite à Bruxelles ?,la question ne concerne pas la catégorie Argent,2
+953,Puis-je introduire un nouveau règlement collectif de dettes lorsque j'ai été révoqué ?,la question ne concerne pas la catégorie Argent,2
+954,Qui surveille l’exécution de ma peine de travail ?,la question ne concerne pas la catégorie Justice,2
+955,Puis-je porter plainte si je suis blessé au cours d’une bagarre ?,la question ne concerne pas la catégorie Justice,2
+956,Je dépose plainte auprès d'un médiateur. L'entreprise est située en Belgique. Dans quels cas puis-je déposer plainte devant le médiateur pour le consommateur ?,la question ne concerne pas la catégorie Argent,2
+957,Je suis témoin d'une infraction. Suis-je obligé de dénoncer/révéler à la police ce dont je suis témoin ?,la question ne concerne pas la catégorie Justice,2
+958,Le juge de police va-t-il décider de ma culpabilité et des sanctions à la première audience ?,la question ne concerne pas la catégorie Justice,2
+959,J'introduis une demande en justice. Qu'est-ce qu'une remise ?,la question ne concerne pas la catégorie Justice,2
+960,"Qu'est-ce qui est remboursé en priorité: le principal, les intérêts ou les frais ?",la question ne concerne pas la catégorie Argent,2
+961,J'introduis une demande en justice. Que faire si mon adversaire ne respecte pas la décision de justice ?,la question ne concerne pas la catégorie Justice,2
+962,Comment calcule-t-on le montant saisissable si je perçois plusieurs types de revenus ?,la question ne concerne pas la catégorie Argent,2
+963,J'ai été condamné à une peine de prison. Puis-je être entendu pour expliquer mon plan de réinsertion sociale ?,la question ne concerne pas la catégorie Justice,2
+964,Le règlement collectif de dettes arrête-t-il les saisies sur mes meubles ou mon salaire ?,la question ne concerne pas la catégorie Argent,2
+965,Le règlement collectif de dettes arrête-t-il une mesure d'expulsion ?,la question ne concerne pas la catégorie Argent,2
+966,"Je suis indépendant, puis-je introduire un règlement collectif de dettes (RCD) ?",la question ne concerne pas la catégorie Argent,2
+967,Mon partenaire est décédé. Quels sont mes droits dans sa succession ?,la question ne concerne pas la catégorie Argent,2
+968,Puis-je changer d'avocat désigné si je ne suis pas satisfait ?,la question ne concerne pas la catégorie Justice,2
+969,J'ai commis une infraction. Suis-je obligé de me dénoncer ou de reconnaître ma culpabilité à la police ?,la question ne concerne pas la catégorie Justice,2
+970,Qui doit payer les frais de dernière maladie ?,la question ne concerne pas la catégorie Argent,2
+971,Après combien de temps ma dette de contribution alimentaire est-elle prescrite ?,la question ne concerne pas la catégorie Argent,2
+972,Après combien de temps ma facture de gaz et d'électricité est-elle prescrite à Bruxelles ?,la question ne concerne pas la catégorie Argent,2
+973,"J'ai une procédure en néerlandais, que faire ?",la question ne concerne pas la catégorie Justice,2
+974,Tous mes biens peuvent-ils être saisis ?,la question ne concerne pas la catégorie Argent,2
+975,Comment faire une donation ?,la question ne concerne pas la catégorie Argent,2
+976,Quelle procédure en cas de défaut de paiement de ma facture d'eau en Wallonie ?,la question ne concerne pas la catégorie Argent,2
+977,J'introduis une demande en justice. Comment vais-je recevoir la décision de justice ?,la question ne concerne pas la catégorie Justice,2
+978,Mon assurance couvre-t-elle mon enfant qui ne vit jamais chez moi ?,la question ne concerne pas la catégorie Argent,2
+979,Peut-on me retirer mes allocations familiales ?,la question ne concerne pas la catégorie Justice,2
+980,Comment débloquer les comptes bancaires après un décès ?,la question ne concerne pas la catégorie Argent,2
+981,Après combien de temps ma dette de stationnement est-elle prescrite ?,la question ne concerne pas la catégorie Argent,2
+982,Quels documents dois-je remettre au bureau d'aide juridique ?,la question ne concerne pas la catégorie Justice,2
+983,Quel est le coût d'un divorce en général ?,la question ne concerne pas la catégorie Justice,2
+984,"Si je ne rembourse pas mon crédit hypothécaire, peut-on faire vendre ma maison ?",la question ne concerne pas la catégorie Argent,2
+985,Je suis travailleur salarié(e). Puis-je refuser de faire des heures supplémentaires ou de travailler de nuit ?,la question concerne la catégorie Travail,0
+986,Suis-je payé pendant la procédure du trajet de réintégration ?,la question concerne la catégorie Travail,0
+987,Le CPAS peut-il faire des retenues sur mon RIS ?,la question concerne la catégorie Protection sociale,0
+988,Qu'est-ce que le trajet de réintégration ?,la question concerne la catégorie Protection sociale,0
+989,Je suis majeur. Je suis handicapé . Comment se déroule la procédure de demande de nationalité ?,la question concerne la catégorie Etrangers,0
+990,Comment se passe la procédure du trajet de réintégration ?,la question concerne la catégorie Protection sociale,0
+991,Comment se passe la procédure du trajet de réintégration ?,la question concerne la catégorie Travail,0
+992,Je suis travailleuse salariée. Dois-je signaler ma grossesse à l'entretien d'embauche ?,la question concerne la catégorie Protection sociale,0
+993,"Quels sont mes droits (rémunération, horaires, etc.) si je reprends un travail à temps partiel suite à un trajet de réintégration ?",la question concerne la catégorie Protection sociale,0
+994,Qu’est-ce que je risque si je remets un faux diplôme ou un CV trafiqué à mon futur employeur ?,la question concerne la catégorie Travail,0
+995,Je suis travailleuse salariée. Quand dois-je avertir mon employeur de ma grossesse ?,la question concerne la catégorie Protection sociale,0
+996,Je vis avec ma famille en Belgique. Je me marie. Peut-on m'expulser si je vais à la commune pour me marier ?,la question concerne la catégorie Etrangers,0
+997,Je vis avec ma famille en Belgique. Je me marie. Puis-je me marier en Belgique ?,la question concerne la catégorie Etrangers,0
+998,Je suis travailleur salarié(e). Dois-je signaler ma grossesse à l'entretien d'embauche ?,la question concerne la catégorie Travail,0
+999,"Mon enfant est mort-né, peut-on déclarer sa naissance ?",la question concerne la catégorie Protection sociale,0
+1000,Je vis avec ma famille en Belgique. Je me marie. L'officier d'état civil peut-il refuser mon mariage ?,la question concerne la catégorie Etrangers,0
+1001,Je suis travailleur salarié(e). Suis-je écartée pendant l'allaitement ?,la question concerne la catégorie Travail,0
+1002,Puis-je contester la décision du tribunal si je ne suis pas d'accord ?,la question concerne la catégorie Protection sociale,0
+1003,Je suis travailleur salarié(e). Suis-je écartée pendant ma grossesse ?,la question concerne la catégorie Travail,0
+1004,Je ne suis pas d’accord avec la décision du médecin-conseil. Puis-je la contester ?,la question concerne la catégorie Protection sociale,0
+1005,Pourquoi faut-il déclarer l'enfant à la commune ?,la question concerne la catégorie Protection sociale,0
+1006,Qui sont les débiteurs alimentaires auprès desquels le CPAS peut récupérer l'aide sociale ?,la question concerne la catégorie Protection sociale,0
+1007,Je reçois les confidences en tant que professionnel. Puis-je lever le secret pour une «concertation de cas» ?,la question concerne la catégorie Travail,0
+1008,Ai-je droit au chômage en cas de rupture du contrat de travail pour force majeure médicale ?,la question concerne la catégorie Travail,0
+1009,Qu'est-ce que je risque comme sanctions si je travaille au noir ?,la question concerne la catégorie Travail,0
+1010,Suis-je payé pendant la procédure du trajet de réintégration ?,la question concerne la catégorie Protection sociale,0
+1011,Je vis avec ma famille en Belgique. Je me marie. Comment faire pour me marier en Belgique ?,la question concerne la catégorie Etrangers,0
+1012,"Je suis majeur. Je suis handicapé . A quelles conditions puis-je demander la nationalité belge si je suis handicapé, invalide ou pensionné ?",la question concerne la catégorie Etrangers,0
+1013,Je suis majeur. Je suis handicapé . Que faire si je n'ai pas d'acte de naissance pour ma demande de nationalité ?,la question concerne la catégorie Etrangers,0
+1014,Dois-je payer quelque chose si j'introduis un recours devant le tribunal du travail contre la décision du CPAS ?,la question concerne la catégorie Protection sociale,0
+1015,A quelles conditions peut-on rompre le contrat pour force majeure médicale ?,la question concerne la catégorie Travail,0
+1016,Quelle procédure le CPAS doit-il respecter pour récupérer l'aide sociale ?,la question concerne la catégorie Protection sociale,0
+1017,Je vis avec ma famille en Belgique. Je me marie. Que faire si je n'ai pas d'acte de naissance pour effectuer ma déclaration de mariage ?,la question concerne la catégorie Etrangers,0
+1018,Dois-je passer un examen médical avant de reprendre un travail adapté ?,la question concerne la catégorie Protection sociale,0
+1019,A-t-on droit à l'allocation de naissance en cas de fausse couche ou d'enfant mort-né à Bruxelles ?,la question concerne la catégorie Protection sociale,0
+1020,Qui doit déclarer la naissance ?,la question concerne la catégorie Protection sociale,0
+1021,Je vis avec ma famille en Belgique. Je me marie. Je suis étranger: peut-on demander l'annulation de notre mariage ?,la question concerne la catégorie Etrangers,0
+1022,"Je reçois les confidences en tant que professionnel. Je travaille dans un CPAS, dois-je communiquer spontanément au procureur du Roi des soupçons de radicalisation ou de terrorisme ?",la question concerne la catégorie Travail,0
+1023,Les régimes de protection des personnes fragilisées ?,la question concerne la catégorie Protection sociale,0
+1024,Faut-il prendre un avocat pour aller au tribunal du travail contre un CPAS ?,la question concerne la catégorie Protection sociale,0
+1025,Je suis travailleuse salariée. Puis-je refuser de faire des heures supplémentaires ou de travailler de nuit ?,la question concerne la catégorie Protection sociale,0
+1026,Je vis avec ma famille en Belgique. Je me marie. Je suis étranger: peut-on demander l'annulation de notre mariage ?,la question concerne la catégorie Etrangers,0
+1027,Je ne suis pas d’accord avec la décision du médecin-conseil. Puis-je la contester ?,la question concerne la catégorie Protection sociale,0
+1028,"Je suis travailleur salarié(e). Quand dois-je reprendre le travail après le congé de maternité, et quelles démarches dois-je faire ?",la question concerne la catégorie Travail,0
+1029,Comment introduire un recours contre la décision du CPAS devant le tribunal ?,la question concerne la catégorie Protection sociale,0
+1030,Je vis avec ma famille en Belgique. Je me marie. Puis-je venir en Belgique pour me marier ?,la question concerne la catégorie Etrangers,0
+1031,Qu'est-ce que la traite d'êtres humains ?,la question concerne la catégorie Etrangers,0
+1032,Quelle procédure le CPAS doit-il respecter pour demander à mes débiteurs alimentaires de rembourser le RIS ?,la question concerne la catégorie Protection sociale,0
+1033,Dans quels cas le CPAS peut-il me demander de rembourser le RIS que j'ai reçu ?,la question concerne la catégorie Protection sociale,0
+1034,Où et comment faut-il déclarer la naissance ?,la question concerne la catégorie Protection sociale,0
+1035,A-t-on droit à l'allocation de naissance en cas de fausse couche ou de bébé mort-né ?,la question concerne la catégorie Protection sociale,0
+1036,Faut-il toujours passer un examen médical avant de reprendre le travail ?,la question concerne la catégorie Protection sociale,0
+1037,Je vis avec ma famille en Belgique. Je me marie. Puis-je effectuer un recours si on refuse mon mariage ?,la question concerne la catégorie Etrangers,0
+1038,Je suis travailleuse salariée. Suis-je écartée pendant ma grossesse ?,la question concerne la catégorie Protection sociale,0
+1039,Comment acter la rupture pour force majeure médicale ?,la question concerne la catégorie Travail,0
+1040,Quels sont les risques d'accepter un travail au noir si je suis au chômage ou en stage d'insertion professionnelle ?,la question concerne la catégorie Protection sociale,0
+1041,"Si le CPAS est condamné et qu'il va en appel, va-t-il me payer l'aide ?",la question concerne la catégorie Protection sociale,0
+1042,Je suis travailleur salarié(e). Puis-je refuser de faire des heures supplémentaires ou de travailler de nuit ?,la question concerne la catégorie Famille,1
+1043,Suis-je payé pendant la procédure du trajet de réintégration ?,la question concerne la catégorie Protection sociale,1
+1044,Le CPAS peut-il faire des retenues sur mon RIS ?,la question concerne la catégorie Etrangers,1
+1045,Qu'est-ce que le trajet de réintégration ?,la question concerne la catégorie Logement,1
+1046,Je suis majeur. Je suis handicapé . Comment se déroule la procédure de demande de nationalité ?,la question concerne la catégorie Travail,1
+1047,Comment se passe la procédure du trajet de réintégration ?,la question concerne la catégorie Argent,1
+1048,Comment se passe la procédure du trajet de réintégration ?,la question concerne la catégorie Famille,1
+1049,Je suis travailleuse salariée. Dois-je signaler ma grossesse à l'entretien d'embauche ?,la question concerne la catégorie Argent,1
+1050,"Quels sont mes droits (rémunération, horaires, etc.) si je reprends un travail à temps partiel suite à un trajet de réintégration ?",la question concerne la catégorie Justice,1
+1051,Qu’est-ce que je risque si je remets un faux diplôme ou un CV trafiqué à mon futur employeur ?,la question concerne la catégorie Protection sociale,1
+1052,Je suis travailleuse salariée. Quand dois-je avertir mon employeur de ma grossesse ?,la question concerne la catégorie Justice,1
+1053,Je vis avec ma famille en Belgique. Je me marie. Peut-on m'expulser si je vais à la commune pour me marier ?,la question concerne la catégorie Justice,1
+1054,Je vis avec ma famille en Belgique. Je me marie. Puis-je me marier en Belgique ?,la question concerne la catégorie Logement,1
+1055,Je suis travailleur salarié(e). Dois-je signaler ma grossesse à l'entretien d'embauche ?,la question concerne la catégorie Famille,1
+1056,"Mon enfant est mort-né, peut-on déclarer sa naissance ?",la question concerne la catégorie Etrangers,1
+1057,Je vis avec ma famille en Belgique. Je me marie. L'officier d'état civil peut-il refuser mon mariage ?,la question concerne la catégorie Justice,1
+1058,Je suis travailleur salarié(e). Suis-je écartée pendant l'allaitement ?,la question concerne la catégorie Famille,1
+1059,Puis-je contester la décision du tribunal si je ne suis pas d'accord ?,la question concerne la catégorie Etrangers,1
+1060,Je suis travailleur salarié(e). Suis-je écartée pendant ma grossesse ?,la question concerne la catégorie Famille,1
+1061,Je ne suis pas d’accord avec la décision du médecin-conseil. Puis-je la contester ?,la question concerne la catégorie Argent,1
+1062,Pourquoi faut-il déclarer l'enfant à la commune ?,la question concerne la catégorie Argent,1
+1063,Qui sont les débiteurs alimentaires auprès desquels le CPAS peut récupérer l'aide sociale ?,la question concerne la catégorie Famille,1
+1064,Je reçois les confidences en tant que professionnel. Puis-je lever le secret pour une «concertation de cas» ?,la question concerne la catégorie Famille,1
+1065,Ai-je droit au chômage en cas de rupture du contrat de travail pour force majeure médicale ?,la question concerne la catégorie Famille,1
+1066,Qu'est-ce que je risque comme sanctions si je travaille au noir ?,la question concerne la catégorie Etrangers,1
+1067,Suis-je payé pendant la procédure du trajet de réintégration ?,la question concerne la catégorie Argent,1
+1068,Je vis avec ma famille en Belgique. Je me marie. Comment faire pour me marier en Belgique ?,la question concerne la catégorie Logement,1
+1069,"Je suis majeur. Je suis handicapé . A quelles conditions puis-je demander la nationalité belge si je suis handicapé, invalide ou pensionné ?",la question concerne la catégorie Travail,1
+1070,Je suis majeur. Je suis handicapé . Que faire si je n'ai pas d'acte de naissance pour ma demande de nationalité ?,la question concerne la catégorie Logement,1
+1071,Dois-je payer quelque chose si j'introduis un recours devant le tribunal du travail contre la décision du CPAS ?,la question concerne la catégorie Logement,1
+1072,A quelles conditions peut-on rompre le contrat pour force majeure médicale ?,la question concerne la catégorie Justice,1
+1073,Quelle procédure le CPAS doit-il respecter pour récupérer l'aide sociale ?,la question concerne la catégorie Travail,1
+1074,Je vis avec ma famille en Belgique. Je me marie. Que faire si je n'ai pas d'acte de naissance pour effectuer ma déclaration de mariage ?,la question concerne la catégorie Protection sociale,1
+1075,Dois-je passer un examen médical avant de reprendre un travail adapté ?,la question concerne la catégorie Etrangers,1
+1076,A-t-on droit à l'allocation de naissance en cas de fausse couche ou d'enfant mort-né à Bruxelles ?,la question concerne la catégorie Argent,1
+1077,Qui doit déclarer la naissance ?,la question concerne la catégorie Etrangers,1
+1078,Je vis avec ma famille en Belgique. Je me marie. Je suis étranger: peut-on demander l'annulation de notre mariage ?,la question concerne la catégorie Justice,1
+1079,"Je reçois les confidences en tant que professionnel. Je travaille dans un CPAS, dois-je communiquer spontanément au procureur du Roi des soupçons de radicalisation ou de terrorisme ?",la question concerne la catégorie Argent,1
+1080,Les régimes de protection des personnes fragilisées ?,la question concerne la catégorie Justice,1
+1081,Faut-il prendre un avocat pour aller au tribunal du travail contre un CPAS ?,la question concerne la catégorie Argent,1
+1082,Je suis travailleuse salariée. Puis-je refuser de faire des heures supplémentaires ou de travailler de nuit ?,la question concerne la catégorie Famille,1
+1083,Je vis avec ma famille en Belgique. Je me marie. Je suis étranger: peut-on demander l'annulation de notre mariage ?,la question concerne la catégorie Travail,1
+1084,Je ne suis pas d’accord avec la décision du médecin-conseil. Puis-je la contester ?,la question concerne la catégorie Argent,1
+1085,"Je suis travailleur salarié(e). Quand dois-je reprendre le travail après le congé de maternité, et quelles démarches dois-je faire ?",la question concerne la catégorie Etrangers,1
+1086,Comment introduire un recours contre la décision du CPAS devant le tribunal ?,la question concerne la catégorie Travail,1
+1087,Je vis avec ma famille en Belgique. Je me marie. Puis-je venir en Belgique pour me marier ?,la question concerne la catégorie Justice,1
+1088,Qu'est-ce que la traite d'êtres humains ?,la question concerne la catégorie Justice,1
+1089,Quelle procédure le CPAS doit-il respecter pour demander à mes débiteurs alimentaires de rembourser le RIS ?,la question concerne la catégorie Famille,1
+1090,Dans quels cas le CPAS peut-il me demander de rembourser le RIS que j'ai reçu ?,la question concerne la catégorie Justice,1
+1091,Où et comment faut-il déclarer la naissance ?,la question concerne la catégorie Argent,1
+1092,A-t-on droit à l'allocation de naissance en cas de fausse couche ou de bébé mort-né ?,la question concerne la catégorie Etrangers,1
+1093,Faut-il toujours passer un examen médical avant de reprendre le travail ?,la question concerne la catégorie Famille,1
+1094,Je vis avec ma famille en Belgique. Je me marie. Puis-je effectuer un recours si on refuse mon mariage ?,la question concerne la catégorie Argent,1
+1095,Je suis travailleuse salariée. Suis-je écartée pendant ma grossesse ?,la question concerne la catégorie Travail,1
+1096,Comment acter la rupture pour force majeure médicale ?,la question concerne la catégorie Etrangers,1
+1097,Quels sont les risques d'accepter un travail au noir si je suis au chômage ou en stage d'insertion professionnelle ?,la question concerne la catégorie Logement,1
+1098,"Si le CPAS est condamné et qu'il va en appel, va-t-il me payer l'aide ?",la question concerne la catégorie Famille,1
+1099,Je suis travailleur salarié(e). Puis-je refuser de faire des heures supplémentaires ou de travailler de nuit ?,la question ne concerne pas la catégorie Travail,2
+1100,Suis-je payé pendant la procédure du trajet de réintégration ?,la question ne concerne pas la catégorie Travail,2
+1101,Le CPAS peut-il faire des retenues sur mon RIS ?,la question ne concerne pas la catégorie Protection sociale,2
+1102,Qu'est-ce que le trajet de réintégration ?,la question ne concerne pas la catégorie Protection sociale,2
+1103,Je suis majeur. Je suis handicapé . Comment se déroule la procédure de demande de nationalité ?,la question ne concerne pas la catégorie Etrangers,2
+1104,Comment se passe la procédure du trajet de réintégration ?,la question ne concerne pas la catégorie Protection sociale,2
+1105,Comment se passe la procédure du trajet de réintégration ?,la question ne concerne pas la catégorie Travail,2
+1106,Je suis travailleuse salariée. Dois-je signaler ma grossesse à l'entretien d'embauche ?,la question ne concerne pas la catégorie Protection sociale,2
+1107,"Quels sont mes droits (rémunération, horaires, etc.) si je reprends un travail à temps partiel suite à un trajet de réintégration ?",la question ne concerne pas la catégorie Protection sociale,2
+1108,Qu’est-ce que je risque si je remets un faux diplôme ou un CV trafiqué à mon futur employeur ?,la question ne concerne pas la catégorie Travail,2
+1109,Je suis travailleuse salariée. Quand dois-je avertir mon employeur de ma grossesse ?,la question ne concerne pas la catégorie Protection sociale,2
+1110,Je vis avec ma famille en Belgique. Je me marie. Peut-on m'expulser si je vais à la commune pour me marier ?,la question ne concerne pas la catégorie Etrangers,2
+1111,Je vis avec ma famille en Belgique. Je me marie. Puis-je me marier en Belgique ?,la question ne concerne pas la catégorie Etrangers,2
+1112,Je suis travailleur salarié(e). Dois-je signaler ma grossesse à l'entretien d'embauche ?,la question ne concerne pas la catégorie Travail,2
+1113,"Mon enfant est mort-né, peut-on déclarer sa naissance ?",la question ne concerne pas la catégorie Protection sociale,2
+1114,Je vis avec ma famille en Belgique. Je me marie. L'officier d'état civil peut-il refuser mon mariage ?,la question ne concerne pas la catégorie Etrangers,2
+1115,Je suis travailleur salarié(e). Suis-je écartée pendant l'allaitement ?,la question ne concerne pas la catégorie Travail,2
+1116,Puis-je contester la décision du tribunal si je ne suis pas d'accord ?,la question ne concerne pas la catégorie Protection sociale,2
+1117,Je suis travailleur salarié(e). Suis-je écartée pendant ma grossesse ?,la question ne concerne pas la catégorie Travail,2
+1118,Je ne suis pas d’accord avec la décision du médecin-conseil. Puis-je la contester ?,la question ne concerne pas la catégorie Protection sociale,2
+1119,Pourquoi faut-il déclarer l'enfant à la commune ?,la question ne concerne pas la catégorie Protection sociale,2
+1120,Qui sont les débiteurs alimentaires auprès desquels le CPAS peut récupérer l'aide sociale ?,la question ne concerne pas la catégorie Protection sociale,2
+1121,Je reçois les confidences en tant que professionnel. Puis-je lever le secret pour une «concertation de cas» ?,la question ne concerne pas la catégorie Travail,2
+1122,Ai-je droit au chômage en cas de rupture du contrat de travail pour force majeure médicale ?,la question ne concerne pas la catégorie Travail,2
+1123,Qu'est-ce que je risque comme sanctions si je travaille au noir ?,la question ne concerne pas la catégorie Travail,2
+1124,Suis-je payé pendant la procédure du trajet de réintégration ?,la question ne concerne pas la catégorie Protection sociale,2
+1125,Je vis avec ma famille en Belgique. Je me marie. Comment faire pour me marier en Belgique ?,la question ne concerne pas la catégorie Etrangers,2
+1126,"Je suis majeur. Je suis handicapé . A quelles conditions puis-je demander la nationalité belge si je suis handicapé, invalide ou pensionné ?",la question ne concerne pas la catégorie Etrangers,2
+1127,Je suis majeur. Je suis handicapé . Que faire si je n'ai pas d'acte de naissance pour ma demande de nationalité ?,la question ne concerne pas la catégorie Etrangers,2
+1128,Dois-je payer quelque chose si j'introduis un recours devant le tribunal du travail contre la décision du CPAS ?,la question ne concerne pas la catégorie Protection sociale,2
+1129,A quelles conditions peut-on rompre le contrat pour force majeure médicale ?,la question ne concerne pas la catégorie Travail,2
+1130,Quelle procédure le CPAS doit-il respecter pour récupérer l'aide sociale ?,la question ne concerne pas la catégorie Protection sociale,2
+1131,Je vis avec ma famille en Belgique. Je me marie. Que faire si je n'ai pas d'acte de naissance pour effectuer ma déclaration de mariage ?,la question ne concerne pas la catégorie Etrangers,2
+1132,Dois-je passer un examen médical avant de reprendre un travail adapté ?,la question ne concerne pas la catégorie Protection sociale,2
+1133,A-t-on droit à l'allocation de naissance en cas de fausse couche ou d'enfant mort-né à Bruxelles ?,la question ne concerne pas la catégorie Protection sociale,2
+1134,Qui doit déclarer la naissance ?,la question ne concerne pas la catégorie Protection sociale,2
+1135,Je vis avec ma famille en Belgique. Je me marie. Je suis étranger: peut-on demander l'annulation de notre mariage ?,la question ne concerne pas la catégorie Etrangers,2
+1136,"Je reçois les confidences en tant que professionnel. Je travaille dans un CPAS, dois-je communiquer spontanément au procureur du Roi des soupçons de radicalisation ou de terrorisme ?",la question ne concerne pas la catégorie Travail,2
+1137,Les régimes de protection des personnes fragilisées ?,la question ne concerne pas la catégorie Protection sociale,2
+1138,Faut-il prendre un avocat pour aller au tribunal du travail contre un CPAS ?,la question ne concerne pas la catégorie Protection sociale,2
+1139,Je suis travailleuse salariée. Puis-je refuser de faire des heures supplémentaires ou de travailler de nuit ?,la question ne concerne pas la catégorie Protection sociale,2
+1140,Je vis avec ma famille en Belgique. Je me marie. Je suis étranger: peut-on demander l'annulation de notre mariage ?,la question ne concerne pas la catégorie Etrangers,2
+1141,Je ne suis pas d’accord avec la décision du médecin-conseil. Puis-je la contester ?,la question ne concerne pas la catégorie Protection sociale,2
+1142,"Je suis travailleur salarié(e). Quand dois-je reprendre le travail après le congé de maternité, et quelles démarches dois-je faire ?",la question ne concerne pas la catégorie Travail,2
+1143,Comment introduire un recours contre la décision du CPAS devant le tribunal ?,la question ne concerne pas la catégorie Protection sociale,2
+1144,Je vis avec ma famille en Belgique. Je me marie. Puis-je venir en Belgique pour me marier ?,la question ne concerne pas la catégorie Etrangers,2
+1145,Qu'est-ce que la traite d'êtres humains ?,la question ne concerne pas la catégorie Etrangers,2
+1146,Quelle procédure le CPAS doit-il respecter pour demander à mes débiteurs alimentaires de rembourser le RIS ?,la question ne concerne pas la catégorie Protection sociale,2
+1147,Dans quels cas le CPAS peut-il me demander de rembourser le RIS que j'ai reçu ?,la question ne concerne pas la catégorie Protection sociale,2
+1148,Où et comment faut-il déclarer la naissance ?,la question ne concerne pas la catégorie Protection sociale,2
+1149,A-t-on droit à l'allocation de naissance en cas de fausse couche ou de bébé mort-né ?,la question ne concerne pas la catégorie Protection sociale,2
+1150,Faut-il toujours passer un examen médical avant de reprendre le travail ?,la question ne concerne pas la catégorie Protection sociale,2
+1151,Je vis avec ma famille en Belgique. Je me marie. Puis-je effectuer un recours si on refuse mon mariage ?,la question ne concerne pas la catégorie Etrangers,2
+1152,Je suis travailleuse salariée. Suis-je écartée pendant ma grossesse ?,la question ne concerne pas la catégorie Protection sociale,2
+1153,Comment acter la rupture pour force majeure médicale ?,la question ne concerne pas la catégorie Travail,2
+1154,Quels sont les risques d'accepter un travail au noir si je suis au chômage ou en stage d'insertion professionnelle ?,la question ne concerne pas la catégorie Protection sociale,2
+1155,"Si le CPAS est condamné et qu'il va en appel, va-t-il me payer l'aide ?",la question ne concerne pas la catégorie Protection sociale,2
