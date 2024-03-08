@@ -14,6 +14,16 @@ Instead of using the dataset to do legal document retrieval i decided that i tra
 
 <img src="NLI zero shot.png" alt="Image Alt Text" width="800" height="300">
 
+# Methodology
+After transforming the BSARD i went to the classification modeling. I finetuned famous LLMs that have been pretrained for NLI tasks on either french texts or multilingual texts including french:
+
+* camemBERT : "CamemBERT is a state-of-the-art language model for French based on the RoBERTa architecture pretrained on the French subcorpus of the newly available multilingual corpus OSCAR. We evaluate CamemBERT in four different downstream tasks for French: part-of-speech (POS) tagging, dependency parsing, named entity recognition (NER) and natural language inference (NLI)" Model's official website
+
+* DistilCamemBERT : istillation version of the well named CamemBERT, a RoBERTa French model version, alias DistilCamemBERT. The aim of distillation is to drastically reduce the complexity of the model while preserving the performances. The proof of concept is shown in the DistilBERT paper and the code used for the training is inspired by the code of DistilBERT.
+
+* mDeBERTa V3 : DeBERTa improves the BERT and RoBERTa models using disentangled attention and enhanced mask decoder. With those two improvements, DeBERTa out perform RoBERTa on a majority of NLU tasks with 80GB training data.
+
+<img src="Diagramme NLI_zero-shot - Page 1.png" alt="Image Alt Text" width="800" height="300">
 
 
 
