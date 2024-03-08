@@ -12,6 +12,6 @@ The dataset was created mainly for document-retrieval: The dataset can be used t
 
 Instead of using the dataset to do legal document retrieval i decided that i transform it to make it into an NLI dataset with the "questions" feature as a premise and create my own hypothesis for each question by using it's "category". This allows me to classify the questions into their categories by turning an NLI problem to a classification one using the zero-shot approach.
 
-<img src="example.jpg" alt="Image Alt Text" width="300" height="200">
+<img src="Classes.jpg" alt="Image Alt Text" width="300" height="200">
 
 
