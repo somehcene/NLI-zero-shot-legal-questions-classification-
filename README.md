@@ -23,7 +23,7 @@ After transforming the BSARD i went to the classification modeling. I finetuned 
 
 * mDeBERTa V3 : DeBERTa improves the BERT and RoBERTa models using disentangled attention and enhanced mask decoder. With those two improvements, DeBERTa out perform RoBERTa on a majority of NLU tasks with 80GB training data.
 
-<img src="Diagramme NLI_zero-shot - Page 1.png" alt="Image Alt Text" width="800" height="300">
+<img src="Diagramme NLI_zero-shot - Page 1.png" alt="Image Alt Text" width="900" height="500">
 
 
 
